@@ -1,33 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
 
 * {
-    margin: 0 0;
+    margin: 0;
     box-sizing: border-box;
     color: aliceblue;
     font-family: 'RocknRoll One', sans-serif;
 }
 
-.posisi {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-.posisi div.gif {
-    position: absolute;
-    top: 58vh;
-    right: -28vh;
-}
-
-body {
-    overflow: hidden;
-}
-
-.posisi h1 {
-    padding-top: 10px;
-    padding-left: 50px;
-}
 
 h1 {
+    margin-left: 25px;
     filter: drop-shadow(0px 8px 10px rgb(0, 0, 0));
     color: rgb(255, 255, 255);
     font-size: 35px;
@@ -37,16 +19,14 @@ h1 {
 h1:hover {
     transition: all;
     transition-duration: 1s;
-    transform: translateX(-40px);
+    transform: translateX(-25px);
 }
 
 
 .wrapper {
     min-height: 100vh;
-    text-align: center;
     background-image: url('../images/index-wallpaper.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
     filter: opacity(0.9);
 }
 
@@ -67,19 +47,19 @@ h1:hover {
     }
 }
 
-.posisi span {
+.tombol-gif {
+    display: flex;
+    justify-content: space-between;
+}
+
+span {
     font-size: 100px;
     color: cyan;
 }
 
-.buat-img img {
-    padding-left: 25px;
+img.buat-img {
     border-radius: 100px;
 } 
-
-.gedekecil {
-    transform: translateY(65px);
-}
 
 .animationgedekecil {
     animation-name: bigger;
@@ -95,4 +75,16 @@ h1:hover {
     100% {
         transform: scale(1);
     }
+}
+
+.content {
+    display: flex;
+}
+
+.content .kanan-dikit {
+    margin-left: 100px;
+}
+
+.buat-img {
+    margin-left: 25px;
 }
