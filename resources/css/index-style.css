@@ -1,20 +1,56 @@
 @import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
+
+@media (min-width: 900px) {
+    .wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .flex {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .content {
+        display: flex;
+        justify-content: space-around;
+    }
+}
 
 * {
     margin: 0;
     box-sizing: border-box;
-    color: aliceblue;
-    font-family: 'RocknRoll One', sans-serif;
+    font-family: 'Heebo', sans-serif;
 }
-
+.black{
+    background-color: rgba(0, 0, 0, 0.671);
+    min-height: 100vh;
+    
+}
+.wrapper {
+    color: aliceblue;
+    overflow: hidden;
+    text-align: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-image: url('../images/index-wallpaper.jpg');
+    background-repeat: no-repeat;
+    filter: opacity(0.9);
+    border-bottom: solid 5px rgb(0, 132, 255);
+    margin-bottom: 30px;
+}
 
 h1 {
     margin-left: 25px;
-    margin-bottom: 15vh;
     filter: drop-shadow(0px 8px 10px rgb(0, 0, 0));
     color: rgb(255, 255, 255);
     font-size: 35px;
     transition-duration: 1s;
+}
+.mb-15 {
+    margin-bottom: 15vh;
 }
 
 h1:hover {
@@ -22,20 +58,7 @@ h1:hover {
     transition-duration: 1s;
     transform: translateX(-25px);
 }
-
-
-.wrapper {
-    min-height: 100vh;
-    background-size: cover;
-    background-image: url('../images/index-wallpaper.jpg');
-    background-repeat: no-repeat;
-    filter: opacity(0.9);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    border-bottom: solid 5px rgb(0, 132, 255);
-}
-
+    
 .animate-h1 {
     animation-name: bayangan;
     animation-duration: 1s;
@@ -53,26 +76,21 @@ h1:hover {
     }
 }
 
-.flex {
-    display: flex;
-    justify-content: space-between;
-}
-
 .arah-bawah {
     flex-direction: column;
     align-items: center;
 }
-
-span {
+    
+.gedein {
     font-size: 70px;
     color: cyan;
+    font-family: 'RocknRoll One', sans-serif;
 }
-
 
 .animationgedekecil {
     filter: drop-shadow(0px 0px 10px rgb(0, 195, 255));
     animation-name: bigger;
-    animation-duration: 1s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
@@ -85,13 +103,14 @@ span {
         transform: scale(1);
     }
 }
-
-.content {
-    display: flex;
-    justify-content: center;
-}
-
+    
 .brad {
     border-radius: 50px;
     height: 40vh;
+}
+
+
+
+a {
+    display: inline-block;
 }
