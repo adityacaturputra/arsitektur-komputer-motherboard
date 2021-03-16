@@ -20,7 +20,7 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
   }
-  .btn:hover, .btn:focus {
+  .btn:hover, .btn:focus, .btn-active {
     color: #fff;
     outline: 0;
   }
@@ -30,7 +30,7 @@
     box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
     transition: all 150ms ease-in-out;
   }
-  .third:hover {
+  .third:hover , .btn-active {
     box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
   }
 
