@@ -17,7 +17,14 @@
         display: flex;
         justify-content: space-around;
     }
+
+    .gedein {
+        font-size: 70px;
+        color: cyan;
+        font-family: 'RocknRoll One', sans-serif;
+    }
 }
+
 
 * {
     margin: 0;
@@ -81,11 +88,7 @@ h1:hover {
     align-items: center;
 }
     
-.gedein {
-    font-size: 70px;
-    color: cyan;
-    font-family: 'RocknRoll One', sans-serif;
-}
+
 
 .animationgedekecil {
     filter: drop-shadow(0px 0px 10px rgb(0, 195, 255));
@@ -103,12 +106,12 @@ h1:hover {
         transform: scale(1);
     }
 }
-    
+
 .brad {
     border-radius: 50px;
     height: 40vh;
+    margin-bottom: 3rem;
 }
-
 
 
 a {
