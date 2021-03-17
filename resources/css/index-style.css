@@ -24,8 +24,12 @@
     }
 }
 
-.warna-putih {
-    color: whitesmoke;
+#artikel {
+    min-height: 110px;
+}
+
+.tombol-artikel {
+    cursor: pointer;
 }
 
 .font-size {
@@ -137,4 +141,8 @@ a {
 
 p {
     color: #004450;
+}
+
+.warna-putih {
+    color: whitesmoke;
 }
