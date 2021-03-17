@@ -24,6 +24,10 @@
     }
 }
 
+.warna-putih {
+    color: whitesmoke;
+}
+
 .font-size {
     font-size: 3vh;
 }
@@ -64,8 +68,8 @@
 
 h1 {
     margin-left: 25px;
-    filter: drop-shadow(0px 8px 10px rgb(0, 0, 0));
-    color: rgb(255, 255, 255);
+    filter: drop-shadow(0px 8px 10px #000000);
+    color: #004450;
     font-size: 35px;
     transition-duration: 1s;
 }
@@ -76,7 +80,7 @@ h1 {
 h1:hover {
     transition: all;
     transition-duration: 1s;
-    transform: translateX(-25px);
+    transform: translateX(-1rem);
 }
     
 .animate-h1 {
@@ -129,4 +133,8 @@ h1:hover {
 
 a {
     display: inline-block;
+}
+
+p {
+    color: #004450;
 }
