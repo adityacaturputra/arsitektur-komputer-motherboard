@@ -24,6 +24,10 @@
     }
 }
 
+.mby{
+    margin: 1vh;
+}
+
 #content {
     min-height: 100vh;
 }
