@@ -6,7 +6,7 @@ const isiArtikel = [
     'Integrated Chip – IC, juga dikenal sebagai Super I/O chip, mulai ditambahkan ke motherboard di akhir 80-an untuk mendukung perangkat berkecepatan rendah seperti mouse, keyboard, floppy disk drive, port serial dan parallel.'
 ];
 const isiGambar = [
-    `<img src="./resources/img/2-at.jpg">`,
+    `<img src="./resources/img/2-at.JPG">`,
     `<img src="./resources/img/2-Apple-II-750px.jpg">`,
     `<img src="./resources/img/2-Capture.JPG">`
 ]; 
