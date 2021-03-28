@@ -24,6 +24,10 @@
     }
 }
 
+#content {
+    min-height: 100vh;
+}
+
 #artikel {
     min-height: 110px;
 }
@@ -37,7 +41,7 @@
 }
 
 .margin-padding-1{
-    margin: 1rem;
+    margin: 5vh 1rem;
     padding: 1rem;
 
 }
