@@ -5,10 +5,17 @@ const isiArtikel = [
     'Di tahun 2007 ASUStek dinobatkan menjadi produsen terbesar motherboard sedunia. 2 Tahun kemdian, lagi-lagi VIA, berhasil merilis mobile-ITX, motherboard terkecil sedunia dengan ukuran 60mm x 60mm.',
     'Motherboard sekarang menjadi semakin kaya fitur. Overclocking (GPU, CPU, dan bahkan RAM), integrated Wi-fi dan Bluetooth, port USB berkecepatan tinggi seperti USB Type-C, hingga lampu RGB yang bisa dikustomisasi sesuai selera. Seiring perkembangan zaman, semakin banyak fitur baru yang bakal ditambahkan.'
 ];
+const isiGambar = [
+    `<img src="./resources/img/3-atx.PNG">`,
+    `<img src="./resources/img/4-btx.JPG">`,
+    `<img src="./resources/img/4-mobile-itx.jpg">`,
+    `<img src="./resources/img/4-ASUS-M6I-mini-ITX.jpg">`
+]; 
 const back = document.querySelector('#back');
 const next = document.querySelector('#next');
 saatIni = 0;
 artikel.innerHTML = isiArtikel[saatIni];
+gambar.innerHTML = isiGambar[saatIni];
 
 const tombol = document.getElementsByClassName('tombol-artikel');
 
@@ -30,6 +37,7 @@ tombol[1].addEventListener("click", function(){
         back.innerHTML = `Back`;
     }
     artikel.innerHTML = isiArtikel[saatIni];
+    gambar.innerHTML = isiGambar[saatIni];
 });
 
 tombol[0].addEventListener("click", function(){
@@ -50,4 +58,5 @@ tombol[0].addEventListener("click", function(){
         back.innerHTML = `Back`;
     }
     artikel.innerHTML = isiArtikel[saatIni];
+    gambar.innerHTML = isiGambar[saatIni];
 });
