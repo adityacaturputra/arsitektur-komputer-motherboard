@@ -26,7 +26,7 @@ tombol[1].addEventListener("click", function(){
     }
     
     if (saatIni == isiArtikel.length - 1) {
-        next.innerHTML = `<a href="../index.html">Selesai</a>`;
+        next.innerHTML = `<a href="./quiz-sejarah.html">Ujian</a>`;
     }else{
         next.innerHTML = `Next`;
     }
@@ -47,7 +47,7 @@ tombol[0].addEventListener("click", function(){
     }
 
     if (saatIni == isiArtikel.length - 1) {
-        next.innerHTML = `<a href="../index.html">Selesai</a>`;
+        next.innerHTML = `<a href="./quiz-sejarah.html">Ujian</a>`;
     }else{
         next.innerHTML = `Next`;
     }
