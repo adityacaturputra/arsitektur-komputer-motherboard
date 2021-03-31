@@ -154,7 +154,7 @@
           c: "Nano ITX",
           d: "Pico ITX"
         },
-        correctAnswer: "c"
+        correctAnswer: "a"
       },
       {
         question: "Di tahun 2007 ASUStek dinobatkan menjadi produsen terbesar motherboard sedunia. 2 Tahun kemdian, lagi-lagi VIA, berhasil merilis mobile-ITX, motherboard terkecil sedunia dengan ukuran ?",
