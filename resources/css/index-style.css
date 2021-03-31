@@ -24,6 +24,10 @@
     }
 }
 
+.justify-space {
+    justify-content: space-between;
+}
+
 .mby{
     margin: 1vh;
 }
