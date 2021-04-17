@@ -193,6 +193,7 @@ document.getElementsByClassName('card')[1].addEventListener('click', function(){
 
 document.getElementsByClassName('card')[0].addEventListener('click', function(){
     document.getElementById('more').innerHTML = `
+    
     <style>
         table {
         border-collapse: collapse;
@@ -206,13 +207,9 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         tr:nth-child(even) {
         background-color: #f2f2f2;
         }
-    </style>
-    
-    
-    
-    
+</style>
     <p>Tabel berikut berisi beberapa nama kode prosesor yang beredar.
-    </p>
+</p>
     <table class="wikitable">
         <tbody><tr>
         <th>Codename
@@ -222,117 +219,117 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <tr>
         <td>X5
         </td>
-        <td><a href="/w/index.php?title=AMD_5x86&amp;action=edit&amp;redlink=1" class="new" title="AMD 5x86 (halaman belum tersedia)">AMD 5x86</a>-133 (<a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">Socket 3</a>)
+        <td><a href="https://id.wikipedia.org/w/index.php?title=AMD_5x86&amp;action=edit&amp;redlink=1" class="new" title="AMD 5x86 (halaman belum tersedia)">AMD 5x86</a>-133 (<a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">Socket 3</a>)
         </td></tr>
         <tr>
         <td>SSA5, Kryptonite
         </td>
-        <td><a href="/wiki/AMD_K5" title="AMD K5">AMD K5</a> (PR75-PR100) (<a href="/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a> dan <a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_K5" title="AMD K5">AMD K5</a> (PR75-PR100) (<a href="https://id.wikipedia.org/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a> dan <a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">Socket 7</a>)
         </td></tr>
         <tr>
         <td>5k86
         </td>
-        <td><a href="/wiki/AMD_K5" title="AMD K5">AMD K5</a> (PR120-PR200) (<a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_K5" title="AMD K5">AMD K5</a> (PR120-PR200) (<a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">Socket 7</a>)
         </td></tr>
         <tr>
         <td>K6
         </td>
-        <td><a href="/wiki/AMD_K6" title="AMD K6">AMD K6</a> asli. Dibatalkan (diganti dengan NexGen Nx686).
+        <td><a href="https://id.wikipedia.org/wiki/AMD_K6" title="AMD K6">AMD K6</a> asli. Dibatalkan (diganti dengan NexGen Nx686).
         </td></tr>
         <tr>
         <td>NX686
         </td>
-        <td>NexGen K6 yang kemudian menjadi <a href="/wiki/AMD_K6" title="AMD K6">AMD K6</a> (<a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>)
+        <td>NexGen K6 yang kemudian menjadi <a href="https://id.wikipedia.org/wiki/AMD_K6" title="AMD K6">AMD K6</a> (<a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">Socket 7</a>)
         </td></tr>
         <tr>
         <td>Little Foot
         </td>
-        <td><a href="/wiki/AMD_K6" title="AMD K6">AMD K6</a> 250 nanometer (<a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_K6" title="AMD K6">AMD K6</a> 250 nanometer (<a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">Socket 7</a>)
         </td></tr>
         <tr>
         <td>Chompers
         </td>
-        <td><a href="/wiki/AMD_K6" title="AMD K6">AMD K6-2</a> (<a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>, <a href="/wiki/Super7" title="Super7">Super7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_K6" title="AMD K6">AMD K6-2</a> (<a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">Socket 7</a>, <a href="https://id.wikipedia.org/wiki/Super7" title="Super7">Super7</a>)
         </td></tr>
         <tr>
         <td>Sharptooth
         </td>
-        <td><a href="/wiki/AMD_K6" title="AMD K6">K6-3</a> (<a href="/wiki/Super7" title="Super7">Super7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_K6" title="AMD K6">K6-3</a> (<a href="https://id.wikipedia.org/wiki/Super7" title="Super7">Super7</a>)
         </td></tr>
         <tr>
         <td>Argon
         </td>
-        <td>Prototipe <a href="/wiki/K7" class="mw-redirect" title="K7">K7</a>.
+        <td>Prototipe <a href="https://id.wikipedia.org/wiki/K7" class="mw-redirect" title="K7">K7</a>.
         </td></tr>
         <tr>
         <td>K7
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> (<a href="/w/index.php?title=Slot_A&amp;action=edit&amp;redlink=1" class="new" title="Slot A (halaman belum tersedia)">Slot A</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> (<a href="https://id.wikipedia.org/w/index.php?title=Slot_A&amp;action=edit&amp;redlink=1" class="new" title="Slot A (halaman belum tersedia)">Slot A</a>)
         </td></tr>
         <tr>
         <td>K75
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> 180 nanometer (<a href="/w/index.php?title=Slot_A&amp;action=edit&amp;redlink=1" class="new" title="Slot A (halaman belum tersedia)">Slot A</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> 180 nanometer (<a href="https://id.wikipedia.org/w/index.php?title=Slot_A&amp;action=edit&amp;redlink=1" class="new" title="Slot A (halaman belum tersedia)">Slot A</a>)
         </td></tr>
         <tr>
         <td>K76
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> 180 nanometer dengan interkoneksi <a href="/wiki/Tembaga" title="Tembaga">Tembaga</a> (<a href="/w/index.php?title=Slot_A&amp;action=edit&amp;redlink=1" class="new" title="Slot A (halaman belum tersedia)">Slot A</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> 180 nanometer dengan interkoneksi <a href="https://id.wikipedia.org/wiki/Tembaga" title="Tembaga">Tembaga</a> (<a href="https://id.wikipedia.org/w/index.php?title=Slot_A&amp;action=edit&amp;redlink=1" class="new" title="Slot A (halaman belum tersedia)">Slot A</a>)
         </td></tr>
         <tr>
         <td>K8
         </td>
-        <td><a href="/wiki/AMD_Athlon_64" class="mw-redirect" title="AMD Athlon 64">AMD Athlon 64</a> (<a href="/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon_64" class="mw-redirect" title="AMD Athlon 64">AMD Athlon 64</a> (<a href="https://id.wikipedia.org/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a>)
         </td></tr>
         <tr>
         <td>K8L
         </td>
-        <td><a href="/w/index.php?title=AMD_Athlon_X2&amp;action=edit&amp;redlink=1" class="new" title="AMD Athlon X2 (halaman belum tersedia)">AMD Athlon X2</a>, 65 nanometer, AMD Athlon Quad FX
+        <td><a href="https://id.wikipedia.org/w/index.php?title=AMD_Athlon_X2&amp;action=edit&amp;redlink=1" class="new" title="AMD Athlon X2 (halaman belum tersedia)">AMD Athlon X2</a>, 65 nanometer, AMD Athlon Quad FX
         </td></tr>
         <tr>
         <td>Thunderbird
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> (<a href="/w/index.php?title=Slot_A&amp;action=edit&amp;redlink=1" class="new" title="Slot A (halaman belum tersedia)">Slot A</a>, <a href="/wiki/Socket_A" title="Socket A">Socket A</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> (<a href="https://id.wikipedia.org/w/index.php?title=Slot_A&amp;action=edit&amp;redlink=1" class="new" title="Slot A (halaman belum tersedia)">Slot A</a>, <a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>)
         </td></tr>
         <tr>
         <td>Mustang
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> dengan cache Level 2 yang besar (lebih dari 1024 KB), untuk <a href="/wiki/Workstation" class="mw-redirect" title="Workstation">workstation</a> atau <a href="/wiki/Server" class="mw-redirect" title="Server">server</a>. Dibatalkan.
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a> dengan cache Level 2 yang besar (lebih dari 1024 KB), untuk <a href="https://id.wikipedia.org/wiki/Workstation" class="mw-redirect" title="Workstation">workstation</a> atau <a href="https://id.wikipedia.org/wiki/Server" class="mw-redirect" title="Server">server</a>. Dibatalkan.
         </td></tr>
         <tr>
         <td>Corvette
         </td>
-        <td>Mobile <a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a>, yang kemudian menjadi Palomino
+        <td>Mobile <a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon</a>, yang kemudian menjadi Palomino
         </td></tr>
         <tr>
         <td>Palomino
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon XP/MP</a> dan <a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon 4</a> 180 nanometer (<a href="/wiki/Socket_A" title="Socket A">Socket A</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon XP/MP</a> dan <a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon 4</a> 180 nanometer (<a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>)
         </td></tr>
         <tr>
         <td>Thoroughbred-A
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">Athlon XP/MP</a> 1700+ hingga 2100+ 130 nanometer (<a href="/wiki/Socket_A" title="Socket A">Socket A</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">Athlon XP/MP</a> 1700+ hingga 2100+ 130 nanometer (<a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>)
         </td></tr>
         <tr>
         <td>Thoroughbred-B
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon XP</a> 1700+ hingga 2400+; AMD Athlon XP 2600+ hingga 2800+ (<a href="/wiki/Socket_A" title="Socket A">Socket A</a>); <a href="/wiki/AMD_Sempron" class="mw-redirect" title="AMD Sempron">AMD Sempron</a> 2200+ hingga 2800+ (<a href="/wiki/Socket_A" title="Socket A">Socket A</a>) 130 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">AMD Athlon XP</a> 1700+ hingga 2400+; AMD Athlon XP 2600+ hingga 2800+ (<a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>); <a href="https://id.wikipedia.org/wiki/AMD_Sempron" class="mw-redirect" title="AMD Sempron">AMD Sempron</a> 2200+ hingga 2800+ (<a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>) 130 nanometer
         </td></tr>
         <tr>
         <td>Barton
         </td>
-        <td><a href="/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">Athlon XP/MP</a> dengan <a href="/wiki/Memori_cache" class="mw-redirect" title="Memori cache">cache</a> Level-2 sebesar 512KB (<a href="/wiki/Socket_A" title="Socket A">Socket A</a>) 130 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon" class="mw-redirect" title="AMD Athlon">Athlon XP/MP</a> dengan <a href="https://id.wikipedia.org/wiki/Memori_cache" class="mw-redirect" title="Memori cache">cache</a> Level-2 sebesar 512KB (<a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>) 130 nanometer
         </td></tr>
         <tr>
         <td>Thorton
         </td>
-        <td>Athlon XP dengan cache Level-2 sebesar 256KB (<a href="/wiki/Socket_A" title="Socket A">Socket A</a>) 130 nanometer
+        <td>Athlon XP dengan cache Level-2 sebesar 256KB (<a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>) 130 nanometer
         </td></tr>
         <tr>
         <td>Spitfire
         </td>
-        <td><a href="/wiki/AMD_Duron" class="mw-redirect" title="AMD Duron">AMD Duron</a> [Socket A]
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Duron" class="mw-redirect" title="AMD Duron">AMD Duron</a> [Socket A]
         </td></tr>
         <tr>
         <td>Camaro
@@ -342,12 +339,12 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <tr>
         <td>Morgan
         </td>
-        <td><a href="/wiki/AMD_Duron" class="mw-redirect" title="AMD Duron">Mobile Duron</a> dan Duron Model 7 yang memiliki kecepatan 900MHz hingga 1.3GHz <a href="/wiki/Socket_A" title="Socket A">Socket A</a>
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Duron" class="mw-redirect" title="AMD Duron">Mobile Duron</a> dan Duron Model 7 yang memiliki kecepatan 900MHz hingga 1.3GHz <a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>
         </td></tr>
         <tr>
         <td>Applebred
         </td>
-        <td><a href="/wiki/AMD_Duron" class="mw-redirect" title="AMD Duron">AMD Duron</a> 1.4GHz hingga 1.8GHz (<a href="/wiki/Socket_A" title="Socket A">Socket A</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Duron" class="mw-redirect" title="AMD Duron">AMD Duron</a> 1.4GHz hingga 1.8GHz (<a href="https://id.wikipedia.org/wiki/Socket_A" title="Socket A">Socket A</a>)
         </td></tr>
         <tr>
         <td>Appaloosa
@@ -357,32 +354,32 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <tr>
         <td>ClawHammer
         </td>
-        <td><a href="/wiki/AMD_Athlon_64" class="mw-redirect" title="AMD Athlon 64">AMD Athlon 64</a> (<a href="/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a> dan <a href="/w/index.php?title=Socket_939&amp;action=edit&amp;redlink=1" class="new" title="Socket 939 (halaman belum tersedia)">Socket 939</a>) 130 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon_64" class="mw-redirect" title="AMD Athlon 64">AMD Athlon 64</a> (<a href="https://id.wikipedia.org/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a> dan <a href="https://id.wikipedia.org/w/index.php?title=Socket_939&amp;action=edit&amp;redlink=1" class="new" title="Socket 939 (halaman belum tersedia)">Socket 939</a>) 130 nanometer
         </td></tr>
         <tr>
         <td>ClawHammer DP
         </td>
-        <td>Nama kode awal untuk <a href="/wiki/AMD_Opteron" title="AMD Opteron">AMD Opteron</a> Dual processor (seri 2xx)
+        <td>Nama kode awal untuk <a href="https://id.wikipedia.org/wiki/AMD_Opteron" title="AMD Opteron">AMD Opteron</a> Dual processor (seri 2xx)
         </td></tr>
         <tr>
         <td>Newcastle
         </td>
-        <td><a href="/wiki/AMD_Athlon_64" class="mw-redirect" title="AMD Athlon 64">AMD Athlon 64</a> (<a href="/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a> dan <a href="/w/index.php?title=Socket_939&amp;action=edit&amp;redlink=1" class="new" title="Socket 939 (halaman belum tersedia)">Socket 939</a>)
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon_64" class="mw-redirect" title="AMD Athlon 64">AMD Athlon 64</a> (<a href="https://id.wikipedia.org/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a> dan <a href="https://id.wikipedia.org/w/index.php?title=Socket_939&amp;action=edit&amp;redlink=1" class="new" title="Socket 939 (halaman belum tersedia)">Socket 939</a>)
         </td></tr>
         <tr>
         <td>Winchester
         </td>
-        <td><a href="/wiki/AMD_Athlon_64" class="mw-redirect" title="AMD Athlon 64">AMD Athlon 64</a> (<a href="/w/index.php?title=Socket_939&amp;action=edit&amp;redlink=1" class="new" title="Socket 939 (halaman belum tersedia)">Socket 939</a>) 90 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Athlon_64" class="mw-redirect" title="AMD Athlon 64">AMD Athlon 64</a> (<a href="https://id.wikipedia.org/w/index.php?title=Socket_939&amp;action=edit&amp;redlink=1" class="new" title="Socket 939 (halaman belum tersedia)">Socket 939</a>) 90 nanometer
         </td></tr>
         <tr>
         <td>San Diego
         </td>
-        <td>Athlon 64 and Athlon 64 FX dengan set instruksi tambahan <a href="/wiki/SSE" title="SSE">SSE3</a> [Socket 939] 90 nanometer
+        <td>Athlon 64 and Athlon 64 FX dengan set instruksi tambahan <a href="https://id.wikipedia.org/wiki/SSE" title="SSE">SSE3</a> [Socket 939] 90 nanometer
         </td></tr>
         <tr>
         <td>Venice
         </td>
-        <td>Athlon 64 dengan set instruksi tambahan <a href="/wiki/SSE" title="SSE">SSE3</a> [Socket 939] [Socket 939] 90 nanometer
+        <td>Athlon 64 dengan set instruksi tambahan <a href="https://id.wikipedia.org/wiki/SSE" title="SSE">SSE3</a> [Socket 939] [Socket 939] 90 nanometer
         </td></tr>
         <tr>
         <td>Odessa
@@ -392,27 +389,27 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <tr>
         <td>Manchester
         </td>
-        <td>Athlon 64 X2 dengan cache Level-2 sebesar 512KB dan set instruksi tambahan <a href="/wiki/SSE" title="SSE">SSE3</a> [Socket 939] 90 nanometer
+        <td>Athlon 64 X2 dengan cache Level-2 sebesar 512KB dan set instruksi tambahan <a href="https://id.wikipedia.org/wiki/SSE" title="SSE">SSE3</a> [Socket 939] 90 nanometer
         </td></tr>
         <tr>
         <td>Toledo
         </td>
-        <td>Athlon 64 X2 dengan cache Level-2 sebesar 1024KB dengan set instruksi tambahan <a href="/wiki/SSE" title="SSE">SSE3</a> [Socket 939] 90 nanometer
+        <td>Athlon 64 X2 dengan cache Level-2 sebesar 1024KB dengan set instruksi tambahan <a href="https://id.wikipedia.org/wiki/SSE" title="SSE">SSE3</a> [Socket 939] 90 nanometer
         </td></tr>
         <tr>
         <td>SledgeHammer
         </td>
-        <td>AMD Opteron dengan cache Level-2 yang besar <a href="/w/index.php?title=Socket_940&amp;action=edit&amp;redlink=1" class="new" title="Socket 940 (halaman belum tersedia)">Socket 940</a> 130 nanometer
+        <td>AMD Opteron dengan cache Level-2 yang besar <a href="https://id.wikipedia.org/w/index.php?title=Socket_940&amp;action=edit&amp;redlink=1" class="new" title="Socket 940 (halaman belum tersedia)">Socket 940</a> 130 nanometer
         </td></tr>
         <tr>
         <td>Palermo
         </td>
-        <td>AMD Sempron <a href="/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a> 90 nanometer
+        <td>AMD Sempron <a href="https://id.wikipedia.org/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a> 90 nanometer
         </td></tr>
         <tr>
         <td>Paris
         </td>
-        <td>AMD Sempron <a href="/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a>
+        <td>AMD Sempron <a href="https://id.wikipedia.org/w/index.php?title=Socket_754&amp;action=edit&amp;redlink=1" class="new" title="Socket 754 (halaman belum tersedia)">Socket 754</a>
         </td></tr>
         <tr>
         <td>Oakville
@@ -437,202 +434,202 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <tr>
         <td>Venus
         </td>
-        <td><a href="/wiki/AMD_Opteron" title="AMD Opteron">AMD Opteron</a> 90 nanometer, dengan set instruksi tambahan <a href="/wiki/SSE" title="SSE">SSE3</a> [Socket 940 atau 939]
+        <td><a href="https://id.wikipedia.org/wiki/AMD_Opteron" title="AMD Opteron">AMD Opteron</a> 90 nanometer, dengan set instruksi tambahan <a href="https://id.wikipedia.org/wiki/SSE" title="SSE">SSE3</a> [Socket 940 atau 939]
         </td></tr>
         <tr>
         <td>P23
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 80486SX</a> (<a href="/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 80486SX</a> (<a href="https://id.wikipedia.org/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P23S
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486SX</a> yang dilengkapi dengan fungsi manajemen daya (<i>SL-enhanced</i>) (<a href="/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486SX</a> yang dilengkapi dengan fungsi manajemen daya (<i>SL-enhanced</i>) (<a href="https://id.wikipedia.org/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P23N
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 487SX</a> (coprocessor) (<a href="/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 487SX</a> (coprocessor) (<a href="https://id.wikipedia.org/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>)
         </td></tr>
         <tr>
         <td>P4
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486DX</a> (<a href="/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486DX</a> (<a href="https://id.wikipedia.org/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P4S
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486DX</a> yang dilengkapi dengan fungsi manajemen daya (<i>SL-enhanced</i>) (<a href="/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486DX</a> yang dilengkapi dengan fungsi manajemen daya (<i>SL-enhanced</i>) (<a href="https://id.wikipedia.org/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P24
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486DX2</a> (<a href="/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486DX2</a> (<a href="https://id.wikipedia.org/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P24S
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486DX2</a> yang dilengkapi dengan fungsi manajemen daya (<i>SL-enhanced</i>) (<a href="/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486DX2</a> yang dilengkapi dengan fungsi manajemen daya (<i>SL-enhanced</i>) (<a href="https://id.wikipedia.org/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P24D
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486DX2</a> yang dilengkapi dengan cache memori <a href="/w/index.php?title=Write-back&amp;action=edit&amp;redlink=1" class="new" title="Write-back (halaman belum tersedia)">write-back</a> <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">Socket 3</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486DX2</a> yang dilengkapi dengan cache memori <a href="https://id.wikipedia.org/w/index.php?title=Write-back&amp;action=edit&amp;redlink=1" class="new" title="Write-back (halaman belum tersedia)">write-back</a> <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">Socket 3</a>
         </td></tr>
         <tr>
         <td>P24C
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486DX4</a> <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">Socket 3</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486DX4</a> <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">Socket 3</a>
         </td></tr>
         <tr>
         <td>P23T
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486DX OverDrive</a> <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">Socket 3</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486DX OverDrive</a> <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">Socket 3</a>
         </td></tr>
         <tr>
         <td>P4T
         </td>
-        <td><a href="/wiki/Intel_80486" title="Intel 80486">Intel 486DX OverDrive</a> (<a href="/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_80486" title="Intel 80486">Intel 486DX OverDrive</a> (<a href="https://id.wikipedia.org/wiki/Socket_1" class="mw-redirect" title="Socket 1">Socket 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P24T
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium OverDrive</a> (<a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium OverDrive</a> (<a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P24CT
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium OverDrive</a> 3.3 <a href="/wiki/Volt" title="Volt">Volt</a> (<a href="/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium OverDrive</a> 3.3 <a href="https://id.wikipedia.org/wiki/Volt" title="Volt">Volt</a> (<a href="https://id.wikipedia.org/wiki/Socket_2" class="mw-redirect" title="Socket 2">2</a>, <a href="https://id.wikipedia.org/wiki/Socket_3" class="mw-redirect" title="Socket 3">3</a>)
         </td></tr>
         <tr>
         <td>P5
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium</a> generasi awal 60 MHz dan 66 MHz <a href="/wiki/Socket_4" class="mw-redirect" title="Socket 4">Socket 4</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium</a> generasi awal 60 MHz dan 66 MHz <a href="https://id.wikipedia.org/wiki/Socket_4" class="mw-redirect" title="Socket 4">Socket 4</a>
         </td></tr>
         <tr>
         <td>P5T
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Pentium OverDrive</a> 120/133MHz <a href="/wiki/Socket_4" class="mw-redirect" title="Socket 4">Socket 4</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Pentium OverDrive</a> 120/133MHz <a href="https://id.wikipedia.org/wiki/Socket_4" class="mw-redirect" title="Socket 4">Socket 4</a>
         </td></tr>
         <tr>
         <td>P54C
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium</a> 75 MHz hingga 120 MHz (<a href="/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a>, <a href="/wiki/Socket_7" title="Socket 7">7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium</a> 75 MHz hingga 120 MHz (<a href="https://id.wikipedia.org/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a>, <a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">7</a>)
         </td></tr>
         <tr>
         <td>P54CQS
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium</a> 120 MHz hingga 133 MHz (<a href="/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a>, <a href="/wiki/Socket_7" title="Socket 7">7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium</a> 120 MHz hingga 133 MHz (<a href="https://id.wikipedia.org/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a>, <a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">7</a>)
         </td></tr>
         <tr>
         <td>P54CS
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium</a> 120 MHz hingga 200 MHz <a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium</a> 120 MHz hingga 200 MHz <a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">Socket 7</a>
         </td></tr>
         <tr>
         <td>P54CT(A)
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium OverDrive</a> (<a href="/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a>, <a href="/wiki/Socket_7" title="Socket 7">7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium OverDrive</a> (<a href="https://id.wikipedia.org/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a>, <a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">7</a>)
         </td></tr>
         <tr>
         <td>P55C
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium MMX</a> <a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium MMX</a> <a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">Socket 7</a>
         </td></tr>
         <tr>
         <td>P54CTB
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium OverDrive MMX</a> (<a href="/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a>, <a href="/wiki/Socket_7" title="Socket 7">7</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Pentium OverDrive MMX</a> (<a href="https://id.wikipedia.org/wiki/Socket_5" class="mw-redirect" title="Socket 5">Socket 5</a>, <a href="https://id.wikipedia.org/wiki/Socket_7" title="Socket 7">7</a>)
         </td></tr>
         <tr>
         <td>Tillamook
         </td>
-        <td><a href="/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Mobile Pentium MMX</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium" class="mw-redirect" title="Intel Pentium">Intel Mobile Pentium MMX</a>
         </td></tr>
         <tr>
         <td>P6
         </td>
-        <td><a href="/wiki/Intel_Pentium_Pro" class="mw-redirect" title="Intel Pentium Pro">Intel Pentium Pro</a> <a href="/wiki/Socket_8" title="Socket 8">Socket 8</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_Pro" class="mw-redirect" title="Intel Pentium Pro">Intel Pentium Pro</a> <a href="https://id.wikipedia.org/wiki/Socket_8" title="Socket 8">Socket 8</a>
         </td></tr>
         <tr>
         <td>P6T
         </td>
-        <td><a href="/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Pentium II OverDrive</a> <a href="/wiki/Socket_8" title="Socket 8">Socket 8</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Pentium II OverDrive</a> <a href="https://id.wikipedia.org/wiki/Socket_8" title="Socket 8">Socket 8</a>
         </td></tr>
         <tr>
         <td>Klamath
         </td>
-        <td><a href="/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Pentium II</a> 350 nanometer <a href="/wiki/Slot_1" title="Slot 1">Slot 1</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Pentium II</a> 350 nanometer <a href="https://id.wikipedia.org/wiki/Slot_1" title="Slot 1">Slot 1</a>
         </td></tr>
         <tr>
         <td>Deschutes
         </td>
-        <td><a href="/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Pentium II</a> 250 nanometer <a href="/wiki/Slot_1" title="Slot 1">Slot 1</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Pentium II</a> 250 nanometer <a href="https://id.wikipedia.org/wiki/Slot_1" title="Slot 1">Slot 1</a>
         </td></tr>
         <tr>
         <td>Drake
         </td>
-        <td><a href="/wiki/Intel_Xeon" title="Intel Xeon">Intel Pentium II Xeon</a> 250 nanometer <a href="/wiki/Slot_2" title="Slot 2">Slot 2</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Xeon" title="Intel Xeon">Intel Pentium II Xeon</a> 250 nanometer <a href="https://id.wikipedia.org/wiki/Slot_2" title="Slot 2">Slot 2</a>
         </td></tr>
         <tr>
         <td>Tonga
         </td>
-        <td><a href="/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Mobile Pentium II</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Mobile Pentium II</a>
         </td></tr>
         <tr>
         <td>Covington
         </td>
-        <td><a href="/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Intel Celeron</a> (<a href="/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Pentium II</a> tanpa <a href="/wiki/Memori_cache" class="mw-redirect" title="Memori cache">cache</a> Level-2) <a href="/wiki/Slot_1" title="Slot 1">Slot 1</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Intel Celeron</a> (<a href="https://id.wikipedia.org/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Pentium II</a> tanpa <a href="https://id.wikipedia.org/wiki/Memori_cache" class="mw-redirect" title="Memori cache">cache</a> Level-2) <a href="https://id.wikipedia.org/wiki/Slot_1" title="Slot 1">Slot 1</a>
         </td></tr>
         <tr>
         <td>Mendocino
         </td>
-        <td><a href="/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Intel Celeron</a> dengan cache Level-2 on-die sebesar 128KB on-die, 250 nanometer (<a href="/wiki/Slot_1" title="Slot 1">Slot 1</a>, <a href="/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Intel Celeron</a> dengan cache Level-2 on-die sebesar 128KB on-die, 250 nanometer (<a href="https://id.wikipedia.org/wiki/Slot_1" title="Slot 1">Slot 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>)
         </td></tr>
         <tr>
         <td>Dixon
         </td>
-        <td><a href="/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Mobile Pentium II</a> dengan cache Level-2 on-die sebesar 256KB
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_II" class="mw-redirect" title="Intel Pentium II">Intel Mobile Pentium II</a> dengan cache Level-2 on-die sebesar 256KB
         </td></tr>
         <tr>
         <td>Katmai
         </td>
-        <td><a href="/wiki/Intel_Pentium_III" class="mw-redirect" title="Intel Pentium III">Intel Pentium III</a> dengan tambahan instruksi <a href="/wiki/SSE" title="SSE">Streaming SIMD Extension (SSE)</a> 250 nanometer <a href="/wiki/Slot_1" title="Slot 1">Slot 1</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_III" class="mw-redirect" title="Intel Pentium III">Intel Pentium III</a> dengan tambahan instruksi <a href="https://id.wikipedia.org/wiki/SSE" title="SSE">Streaming SIMD Extension (SSE)</a> 250 nanometer <a href="https://id.wikipedia.org/wiki/Slot_1" title="Slot 1">Slot 1</a>
         </td></tr>
         <tr>
         <td>Tanner
         </td>
-        <td><a href="/wiki/Intel_Xeon" title="Intel Xeon">Intel Pentium III Xeon</a> dengan tambahan instruksi SSE 250 nanometer <a href="/wiki/Slot_2" title="Slot 2">Slot 2</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Xeon" title="Intel Xeon">Intel Pentium III Xeon</a> dengan tambahan instruksi SSE 250 nanometer <a href="https://id.wikipedia.org/wiki/Slot_2" title="Slot 2">Slot 2</a>
         </td></tr>
         <tr>
         <td>Coppermine
         </td>
-        <td><a href="/wiki/Intel_Pentium_III" class="mw-redirect" title="Intel Pentium III">Intel Pentium III</a> dengan cache Level-2 on-die sebesar 256KB, 180 nanometer (<a href="/wiki/Slot_1" title="Slot 1">Slot 1</a>, <a href="/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_III" class="mw-redirect" title="Intel Pentium III">Intel Pentium III</a> dengan cache Level-2 on-die sebesar 256KB, 180 nanometer (<a href=https://id.wikipedia.org"/wiki/Slot_1" title="Slot 1">Slot 1</a>, <a href="https://id.wikipedia.org/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>)
         </td></tr>
         <tr>
         <td>Tualatin
         </td>
-        <td><a href="/wiki/Intel_Pentium_III" class="mw-redirect" title="Intel Pentium III">Intel Pentium III</a> 130 nanometer <a href="/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_III" class="mw-redirect" title="Intel Pentium III">Intel Pentium III</a> 130 nanometer <a href="https://id.wikipedia.org/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>
         </td></tr>
         <tr>
         <td>Coppermine-T
         </td>
-        <td><a href="/wiki/Intel_Pentium_III" class="mw-redirect" title="Intel Pentium III">Intel Pentium III</a> dengan tegangan Tualatin voltage 180 nanometer <a href="/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_III" class="mw-redirect" title="Intel Pentium III">Intel Pentium III</a> dengan tegangan Tualatin voltage 180 nanometer <a href="https://id.wikipedia.org/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>
         </td></tr>
         <tr>
         <td>Cascades
         </td>
-        <td><a href="/wiki/Intel_Xeon" title="Intel Xeon">Intel Pentium III Xeon</a> 180 nanometer <a href="/wiki/Slot_2" title="Slot 2">Slot 2</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Xeon" title="Intel Xeon">Intel Pentium III Xeon</a> 180 nanometer <a href="https://id.wikipedia.org/wiki/Slot_2" title="Slot 2">Slot 2</a>
         </td></tr>
         <tr>
         <td>Coppermine-128
         </td>
-        <td><a href="/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Intel Celeron</a> dengan cache Level-2 sebesar 128KB 180 nanometer <a href="/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Intel Celeron</a> dengan cache Level-2 sebesar 128KB 180 nanometer <a href="https://id.wikipedia.org/wiki/Socket_370" class="mw-redirect" title="Socket 370">Socket 370</a>
         </td></tr>
         <tr>
         <td>Timna
         </td>
-        <td><a href="/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Intel Mobile Celeron</a> yang dilengkapi dengan <i><a href="/wiki/Dynamic_Random_Access_Memory" class="mw-redirect" title="Dynamic Random Access Memory">DRAM</a> controller</i>; dibatalkan.
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Intel Mobile Celeron</a> yang dilengkapi dengan <i><a href="https://id.wikipedia.org/wiki/Dynamic_Random_Access_Memory" class="mw-redirect" title="Dynamic Random Access Memory">DRAM</a> controller</i>; dibatalkan.
         </td></tr>
         <tr>
         <td>P68
@@ -642,102 +639,102 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <tr>
         <td>Willamette
         </td>
-        <td><a href="/wiki/Intel_Pentium_4" class="mw-redirect" title="Intel Pentium 4">Intel Pentium 4</a> 180 nanometer <a href="/w/index.php?title=Socket_423&amp;action=edit&amp;redlink=1" class="new" title="Socket 423 (halaman belum tersedia)">Socket 423</a>, <a href="/w/index.php?title=Socket_478&amp;action=edit&amp;redlink=1" class="new" title="Socket 478 (halaman belum tersedia)">Socket 478</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_4" class="mw-redirect" title="Intel Pentium 4">Intel Pentium 4</a> 180 nanometer <a href="https://id.wikipedia.org/w/index.php?title=Socket_423&amp;action=edit&amp;redlink=1" class="new" title="Socket 423 (halaman belum tersedia)">Socket 423</a>, <a href="https://id.wikipedia.org/w/index.php?title=Socket_478&amp;action=edit&amp;redlink=1" class="new" title="Socket 478 (halaman belum tersedia)">Socket 478</a>
         </td></tr>
         <tr>
         <td>Northwood
         </td>
-        <td><a href="/wiki/Intel_Pentium_4" class="mw-redirect" title="Intel Pentium 4">Intel Pentium 4</a> 130 nanometer <a href="/w/index.php?title=Socket_478&amp;action=edit&amp;redlink=1" class="new" title="Socket 478 (halaman belum tersedia)">Socket 478</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_4" class="mw-redirect" title="Intel Pentium 4">Intel Pentium 4</a> 130 nanometer <a href="https://id.wikipedia.org/w/index.php?title=Socket_478&amp;action=edit&amp;redlink=1" class="new" title="Socket 478 (halaman belum tersedia)">Socket 478</a>
         </td></tr>
         <tr>
         <td>Prescott
         </td>
-        <td><a href="/wiki/Intel_Pentium_4" class="mw-redirect" title="Intel Pentium 4">Intel Pentium 4</a> dengan teknologi <a href="/wiki/Hyper-Threading" title="Hyper-Threading">Hyper-Threading</a>; <a href="/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Celeron D</a> <a href="/w/index.php?title=Socket_478&amp;action=edit&amp;redlink=1" class="new" title="Socket 478 (halaman belum tersedia)">Socket 478</a>/<a href="/w/index.php?title=Socket_775&amp;action=edit&amp;redlink=1" class="new" title="Socket 775 (halaman belum tersedia)">Socket 775</a>; <a href="/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Celeron D</a> <a href="/w/index.php?title=Socket_775&amp;action=edit&amp;redlink=1" class="new" title="Socket 775 (halaman belum tersedia)">Socket 775</a>/<a href="/w/index.php?title=Socket_478&amp;action=edit&amp;redlink=1" class="new" title="Socket 478 (halaman belum tersedia)">Socket 478</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_4" class="mw-redirect" title="Intel Pentium 4">Intel Pentium 4</a> dengan teknologi <a href="https://id.wikipedia.org/wiki/Hyper-Threading" title="Hyper-Threading">Hyper-Threading</a>; <a href="https://id.wikipedia.org/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Celeron D</a> <a href=https://id.wikipedia.org"/w/index.php?title=Socket_478&amp;action=edit&amp;redlink=1" class="new" title="Socket 478 (halaman belum tersedia)">Socket 478</a>/<a href="https://id.wikipedia.org/w/index.php?title=Socket_775&amp;action=edit&amp;redlink=1" class="new" title="Socket 775 (halaman belum tersedia)">Socket 775</a>; <a href="https://id.wikipedia.org/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Celeron D</a> <a href="https://id.wikipedia.org/w/index.php?title=Socket_775&amp;action=edit&amp;redlink=1" class="new" title="Socket 775 (halaman belum tersedia)">Socket 775</a>/<a href="https://id.wikipedia.org/w/index.php?title=Socket_478&amp;action=edit&amp;redlink=1" class="new" title="Socket 478 (halaman belum tersedia)">Socket 478</a>
         </td></tr>
         <tr>
         <td>Smithfield
         </td>
-        <td><a href="/wiki/Intel_Pentium_D" class="mw-redirect" title="Intel Pentium D">Intel Pentium D</a>, <a href="/wiki/Intel_Pentium_Extreme_Edition" class="mw-redirect" title="Intel Pentium Extreme Edition">Intel Pentium Extreme Edition</a> 90 nanometer <a href="/w/index.php?title=Socket_775&amp;action=edit&amp;redlink=1" class="new" title="Socket 775 (halaman belum tersedia)">Socket 775</a>
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_D" class="mw-redirect" title="Intel Pentium D">Intel Pentium D</a>, <a href="https://id.wikipedia.org/wiki/Intel_Pentium_Extreme_Edition" class="mw-redirect" title="Intel Pentium Extreme Edition">Intel Pentium Extreme Edition</a> 90 nanometer <a href="https://id.wikipedia.org/w/index.php?title=Socket_775&amp;action=edit&amp;redlink=1" class="new" title="Socket 775 (halaman belum tersedia)">Socket 775</a>
         </td></tr>
         <tr>
         <td>Cedar-Mill
         </td>
-        <td><a href="/wiki/Intel_Pentium_4" class="mw-redirect" title="Intel Pentium 4">Intel Pentium 4</a>, dengan tambahan instruksi <i>Intel Enhanced SpeedStep Technology</i> 65 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_4" class="mw-redirect" title="Intel Pentium 4">Intel Pentium 4</a>, dengan tambahan instruksi <i>Intel Enhanced SpeedStep Technology</i> 65 nanometer
         </td></tr>
         <tr>
         <td>Presler
         </td>
-        <td><a href="/wiki/Intel_Pentium_D" class="mw-redirect" title="Intel Pentium D">Intel Pentium D</a> 65 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_D" class="mw-redirect" title="Intel Pentium D">Intel Pentium D</a> 65 nanometer
         </td></tr>
         <tr>
         <td>Conroe
         </td>
-        <td><a href="/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2 Duo</a>, prosesor dual core, 65 nanometer, dengan cache Level-2 4096 KB
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2 Duo</a>, prosesor dual core, 65 nanometer, dengan cache Level-2 4096 KB
         </td></tr>
         <tr>
         <td>Allendale
         </td>
-        <td><a href="/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2 Duo</a>, prosesor dual core, 65 nanometer, dengan cache Level 2 2048 KB
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2 Duo</a>, prosesor dual core, 65 nanometer, dengan cache Level 2 2048 KB
         </td></tr>
         <tr>
         <td>Kentsfield
         </td>
-        <td><a href="/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2 Extreme</a>, prosesor quad core, 65 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2 Extreme</a>, prosesor quad core, 65 nanometer
         </td></tr>
         <tr>
         <td>Penryn
         </td>
-        <td><a href="/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2</a> 45 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2</a> 45 nanometer
         </td></tr>
         <tr>
         <td>Nehalem
         </td>
-        <td><a href="/wiki/Intel_Core_i7" title="Intel Core i7">Intel Core i7</a> prosesor terbaru Intel yang saat ini menggantikan teknologi Intel Core yang memiliki kinerja super cepat salah satu fitur teknologi yang dibawa adalah <i>Quick Path</i> mengantikan teknologi Front Side Bus dan masih banyak fitur baru lainnya
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Core_i7" title="Intel Core i7">Intel Core i7</a> prosesor terbaru Intel yang saat ini menggantikan teknologi Intel Core yang memiliki kinerja super cepat salah satu fitur teknologi yang dibawa adalah <i>Quick Path</i> mengantikan teknologi Front Side Bus dan masih banyak fitur baru lainnya
         </td></tr>
         <tr>
         <td>Banias
         </td>
-        <td><a href="/wiki/Intel_Pentium_M" class="mw-redirect" title="Intel Pentium M">Intel Pentium M</a> dengan cache Level-2 1024KB
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_M" class="mw-redirect" title="Intel Pentium M">Intel Pentium M</a> dengan cache Level-2 1024KB
         </td></tr>
         <tr>
         <td>Yonah
         </td>
-        <td><a href="/wiki/Intel_Pentium_M" class="mw-redirect" title="Intel Pentium M">Intel Pentium M</a> (<i>dual-core</i>) dan <a href="/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Celeron M</a> (<i>single core</i>)
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_M" class="mw-redirect" title="Intel Pentium M">Intel Pentium M</a> (<i>dual-core</i>) dan <a href="https://id.wikipedia.org/wiki/Intel_Celeron" class="mw-redirect" title="Intel Celeron">Celeron M</a> (<i>single core</i>)
         </td></tr>
         <tr>
         <td>Merom
         </td>
-        <td>Yonah dengan tambahan instruksi <a href="/w/index.php?title=EM64T&amp;action=edit&amp;redlink=1" class="new" title="EM64T (halaman belum tersedia)">EM64T</a>
+        <td>Yonah dengan tambahan instruksi <a href="https://id.wikipedia.org/w/index.php?title=EM64T&amp;action=edit&amp;redlink=1" class="new" title="EM64T (halaman belum tersedia)">EM64T</a>
         </td></tr>
         <tr>
         <td>Foster
         </td>
-        <td><a href="/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon DP</a> [Socket 603]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon DP</a> [Socket 603]
         </td></tr>
         <tr>
         <td>Foster MP
         </td>
-        <td><a href="/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon MP</a> [Socket 603]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon MP</a> [Socket 603]
         </td></tr>
         <tr>
         <td>Prestonia
         </td>
-        <td><a href="/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon DP</a> 130 nanometer [Socket 603]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon DP</a> 130 nanometer [Socket 603]
         </td></tr>
         <tr>
         <td>Gallatin
         </td>
-        <td><a href="/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon MP</a> 130 nanometer [Socket 603]; Pentium 4 Extreme Edition [Socket 478]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon MP</a> 130 nanometer [Socket 603]; Pentium 4 Extreme Edition [Socket 478]
         </td></tr>
         <tr>
         <td>Nocona
         </td>
-        <td><a href="/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon</a> 90 nanometer [Socket 603]; Pentium 4 Extreme Edition [Socket 478 and Socket 775]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Xeon" title="Intel Xeon">Intel Xeon</a> 90 nanometer [Socket 603]; Pentium 4 Extreme Edition [Socket 478 and Socket 775]
         </td></tr>
         <tr>
         <td>Dothan
         </td>
-        <td><a href="/wiki/Intel_Pentium_M" class="mw-redirect" title="Intel Pentium M">Intel Pentium M</a> dengan cache Level-2 2048KB 90 nanometer [Socket 479]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Pentium_M" class="mw-redirect" title="Intel Pentium M">Intel Pentium M</a> dengan cache Level-2 2048KB 90 nanometer [Socket 479]
         </td></tr>
         <tr>
         <td>P7
@@ -747,17 +744,17 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <tr>
         <td>Merced
         </td>
-        <td><a href="/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium</a> [PAC 418]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium</a> [PAC 418]
         </td></tr>
         <tr>
         <td>McKinley
         </td>
-        <td><a href="/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium 2</a> dengan cache Level-3 on-die sebesar 3MB [PAC 418]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium 2</a> dengan cache Level-3 on-die sebesar 3MB [PAC 418]
         </td></tr>
         <tr>
         <td>Madison
         </td>
-        <td><a href="/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium 2</a> 130 nanometer [PAC 418]
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium 2</a> 130 nanometer [PAC 418]
         </td></tr>
         <tr>
         <td>Deerfield
@@ -772,7 +769,9 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <tr>
         <td>Shavano
         </td>
-        <td><a href="/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium</a> dengan proses manufaktur 65 nanometer
+        <td><a href="https://id.wikipedia.org/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium</a> dengan proses manufaktur 65 nanometer
         </td></tr>
-        </tbody></table>`
+        </tbody></table>
+
+    `
 })
