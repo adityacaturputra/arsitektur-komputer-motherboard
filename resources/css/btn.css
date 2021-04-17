@@ -41,3 +41,6 @@
   button.btn.third h2 {
     filter: drop-shadow(0px 8px 10px rgb(5, 0, 75));
   }
+  .hover-hitam:hover {
+    color: #333;
+  }
