@@ -3,103 +3,103 @@ const komponens = [
         name    : "Slot Processor",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Socket-Processor-300x229.jpg",
         artikel : "Slot Processor adalah tempat peletakan prosesor pada motherboard. Dudukan ini berbentuk segi empat dengan lubang-lubang kecil tempat tertancapnya kaki-kaki (pin-pin) prosesor yang tersusun membentuk matriks 2 dimensi. Yang berfungsi untuk meletakan processor ke motherboard.",
-        link    : "#more"
+        link    : "#more-link"
     },
     {
         name    : "Konektor power",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/ATX-Power-300x270.jpg",
         artikel : "konektor power pada motherboard adalah Pin yang menyambungkan motherboard dengan power supply di casing sebuah komputer. Agar si motherboard menerima daya dari power supply.",
-        link    : "#more"
+        link    : "#more-link"
     },
     {
         name    : "Northbridge",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Northbridge.jpg",
         artikel : "Northbridge adalah komponen yang menghubungkan procossor (CPU) ke sistem memori dan graphics controller (AGP dan PCI Express) melalui bus berkecepatan tinggi, dan ke southbridge. Fungsi dari Northbridge sendiri yaitu menjembatani arus data di sekitar main Memory, Prosesor, Front Side Bus dan AGP Bus juga mengatur kerja power management.",
-        link    : "#more"
+        link    : "#more-link"
     },
     {
         name    : "Slot Memory RAM",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Slot-memory-300x200.jpg",
         artikel : "Slot Memory RAM berfungsi untuk memasang memory card (RAM), Memory atau RAM ada beberapa Jenis seperti SDRAM,DDR1,DDR2,DDR3 dan DDR4.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port SATA",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Port-Sata-300x212.jpg",
         artikel : "SATA singkatan dari Serial ATA yang berfungsi untuk menghubungkan Media penyimpanan seperti hardisk atau SSD ke Motherboard.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Slot PCI-E",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Slot-PCIE-300x163.jpg",
         artikel : "PCI Express (PCI–E/PCIex) adalah slot ekspansi yang didesain untuk menggantikan PCI bus yang lama. Banyak Motherboard mengadopsi PCI express karena PCI Express memiliki transfer data yang lebih cepat, terutama untuk keperluan grafis 3D.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Southbridge",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/southbridge.jpg",
         artikel : "adalah chip dalam arsitektur chipset logika inti pada bagian utara motherboard PC. Fungsi dari Southbridge adalah mengatur kerja perangkat semacam IDE Controller, PCI Bus, ROM Bios, Keyboard & Mouse, USB, Eth. LAN, Modem dan fungsi I/O lainnya.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "LED",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Lampu-LED-300x194.jpg",
         artikel : "Power LED adalah lampu menyala jika terdapat standby power di Motherboard. LED ini bertindak sebagai reminder (pengingat) untuk mematikan system power sebelum menghidupkan atau mematikan komputer.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port PS/2",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/ps2_ports_atx-174x300.jpg",
         artikel : "Port PS/2 adalah konektor mini-DIN-6pin yang menghubungkan mouse ke komputer.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port Paralel",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Port-Paralel-300x225.jpg",
         artikel : "Fungsi dari port paralel adalah menyambungkan komputer dengan printer, scanner, sampai dengan menghubungkan komputer dengan perangkat tambahan tertentu yang dirancang menggunakan koneksi port paralel.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port Serial",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/serial-300x154.jpg",
         artikel : "Port Serial adalah Port asinkron yang ada pada komputer yang digunakan untuk menghubungkan perangkat serial ke komputer dan mampu mengirimkan sedikit demi sedikit.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port VGA",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/vga-300x225.jpg",
         artikel : "Port VGA adalah sebuah antarmuka analog pada kartu grafis yang umumnya digunakan untuk menghubungkan antara komputer dengan monitor.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port DVI",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/dvi-300x120.jpg",
         artikel : "Port DVI adalah interface video display yang dikembangkan oleh Digital Display Working Group (DDWG). Interface digital ini digunakan untuk menghubungkan sumber video, seperti kartu grafis ke perangkat layar, seperti monitor komputer.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port HDMI",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/hdmi.jpg",
         artikel : "Port HDMI adalah interface yang berfungsi untuk menghubungkan Display ke komputer, seperti monitor, TV, Proyektor, dll.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port USB",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/usb.jpg",
         artikel : "Port USB berfungsi untuk menghubungkan perangkat seperti mouse,keyboard, flashdisk, printer, dan perangkat lainnya.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Battery CMOS",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/cmos-300x252.png",
         artikel : "sebuah baterai yang digunakan oleh BIOS untuk tetap aktif meski tanpa aliran listrik.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port RJ-45",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/rj45-300x203.png",
         artikel : "Port RJ-45 berfungsi untuk menghubungkan atau mengkoneksikan Internet pada komputer.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Port Audio",
@@ -109,19 +109,19 @@ const komponens = [
         -	Port Line out jack(hijau): untuk menghubungkan ke headphone atau headset. <br>
         -   Port Mikrofon (pink): untuk menghubungkan mikrofon pada komputer.
         `,
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Pin CPU Fan",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/cpu-fan-300x168.jpg",
         artikel : "Pin CPU Fan berfungsi untuk  memberikan daya ke kipas processor agar dia dapat menyala sehingga bisa mendinginkan processor.",
-        link    : ""
+        link    : "#more-link"
     },
     {
         name    : "Pin Front Panel",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/f_panel.jpg",
         artikel : "Pin Front Panel ini berfungsi sebagai konektor dari casing ke motherboard sehingga kita bisa menyalakan komputer melalui casing.",
-        link    : ""
+        link    : "#more-link"
     }
 ];
 
@@ -130,53 +130,67 @@ var card = document.getElementById('list-komponen');
 komponens.forEach(komponen => {
     temp = `${temp}
     <div>
-    <div class="card card-1">
-    <img class="card-img" src="${komponen.img}" alt="${komponen.name}">
-    <a href="${komponen.link}">
-    <h1>${komponen.name}</h1>
-    </a>
-    <p class="card-text">${komponen.artikel}</p>
-    </div>
+        <div class="card card-1">
+            <img class="card-img" src="${komponen.img}" alt="${komponen.name}">
+            <a href="${komponen.link}">
+                <h1>${komponen.name}</h1>
+            </a>
+            <p class="card-text">${komponen.artikel}</p>
+        </div>
     </div>
     `
 });
 
 card.innerHTML = temp;
+let more = document.getElementById('more');
 
+document.getElementsByClassName('card')[3].addEventListener('click', function(){
+    more.innerHTML = `
+    
+    <div>
+                <img src="https://www.astronkomputer.com/wp-content/uploads/2017/11/slot-memori.jpg" alt="">
+                <div>
+		
+
+                    <p><strong>Slot memori, soket memori</strong> atau <strong>slot RAM</strong> inilah yang merupakan tempat dimana memori (<strong>RAM</strong>) komputer dimasukkan ke dalam komputer.</p>
+                    <p>Bergantung pada motherboard, mungkin ada dua sampai empat slot memori (kadang lebih pada <strong>motherboard</strong> high-end) dan itulah yang menentukan jenis RAM yang digunakan dengan komputer.</p>
+                    <p>Jenis RAM yang paling umum adalah <strong>SDRAM</strong> dan <strong>DDR</strong> untuk komputer desktop dan <strong>SODIMM</strong> untuk laptop, masing-masing memiliki berbagai jenis dan kecepatan.</p>
+                    <p>Pada gambar dibawah ini adalah contoh dari slot memori seperti yang ada pada motherboard komputer.</p>
+                    
+                    <p>Saat membeli komputer atau motherboard baru, perhatikan jenis slot memori RAM, sehingga kamu akan tahu jenis RAM apa yang akan kamu beli untuk komputer. Penting juga untuk di catat berapa banyak slot memori yang tersedia di komputer. Hal ini berguna untuk diwaktu yang akan datang jika kamu akan melakukan upgrade memori, mungkin ada beberapa atau bahkan semua memori lama harus dilepas terlebih dahulu.</p>
+                    <p></p>			
+                </div>
+                <iframe width="400" height="300" src="https://www.youtube.com/embed/PVad0c2cljo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+    `
+});
 document.getElementsByClassName('card')[2].addEventListener('click', function(){
-    document.getElementById('more').innerHTML = `<iframe width="400" height="300" src="https://www.youtube.com/embed/bSWM2wSfzgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <div class="td-post-content tagdiv-type">
-<div class="td-post-featured-image"><figure><a href="https://i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?fit=1068%2C713&amp;ssl=1" data-caption="Ilustrasi Gambar Apa Itu Pengertian Northbridge Serta Cara Kerja Northbridge Pada Motherboard" class="td-modal-image"><img width="500"  class="entry-thumb lazyloaded" src="//i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=696%2C465&amp;ssl=1" alt="Ilustrasi Gambar Apa Itu Pengertian Northbridge Serta Cara Kerja Northbridge Pada Motherboard" title="Ilustrasi Gambar Apa Itu Pengertian Northbridge Serta Cara Kerja Northbridge Pada Motherboard" sizes="(max-width: 400px) 100vw, 696px" srcset="//i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?w=1068&amp;ssl=1 1068w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=300%2C200&amp;ssl=1 300w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=768%2C513&amp;ssl=1 768w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=1024%2C684&amp;ssl=1 1024w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=696%2C465&amp;ssl=1 696w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=629%2C420&amp;ssl=1 629w" data-ll-status="loaded"><noscript><img width="400"  class="entry-thumb td-modal-image" src="//i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=696%2C465&ssl=1" srcset="//i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?w=1068&ssl=1 1068w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=300%2C200&ssl=1 300w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=768%2C513&ssl=1 768w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=1024%2C684&ssl=1 1024w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=696%2C465&ssl=1 696w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Serta-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=629%2C420&ssl=1 629w" sizes="(max-width: 400px) 100vw, 696px" alt="Ilustrasi Gambar Apa Itu Pengertian Northbridge Serta Cara Kerja Northbridge Pada Motherboard" title="Ilustrasi Gambar Apa Itu Pengertian Northbridge Serta Cara Kerja Northbridge Pada Motherboard"/></noscript></a><figcaption class="wp-caption-text">Ilustrasi Gambar Apa Itu Pengertian Northbridge Serta Cara Kerja Northbridge Pada Motherboard</figcaption></figure></div>
-
-
-<h2><span id="Pengertian_Northbridge">Pengertian Northbridge</span></h2>
-<p>Sebenarnya, apa itu pengertian Northbridge yang ada pada Motherboard? <strong>Northbridge </strong>adalah chipset Intel yang berkomunikasi dengan prosesor komputer dan mengontrol interaksi dengan memori, bus Peripheral Component Interconnect (PCI), cache Level 2, dan semua aktivitas Accelerated Graphics Port (AGP), selain Northbridge masih ada banyak komponen lain yang ada pada Motherboard seperti <a href="https://rifqimulyawan.com/pengertian-daughterboard.html">Daughterboard </a>salah satunya.</p>
-<p><a rel="nofollow" href="https://rifqimulyawan.com/blog/pengertian-northbridge/?link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNorthbridge_%28computing%29">Northbridge </a>berkomunikasi dengan prosesor menggunakan <strong>Frontside Bus (FSB)</strong>. Northbridge adalah salah satu bagian dari chipset dua bagian yang disebut Northbridge dan Southbridge. Southbridge menangani fungsi input dan output (I/O) dari chipset.</p>
-<h2><span id="Cara_Kerja_Northbridge">Cara Kerja Northbridge</span></h2>
-<p>Mengacu pada Pengertian Northbridge di atas Nothbridge yang juga disebut sebagai <strong>PAC (PCI/AGP Controller)</strong> dan <strong>nb</strong>, Northbridge adalah sirkuit terintegrasi yang bertanggung jawab untuk komunikasi antara antarmuka CPU, AGP, dan memori.</p>
-<p>Berbeda dengan Southbridge, Northbridge terhubung langsung ke komponen-komponen ini dan bertindak seperti “jembatan” untuk chip Southbridge untuk berkomunikasi dengan CPU, RAM, dan pengontrol grafis. Saat ini, Northbridge adalah chip tunggal yang berada di utara bus PCI, namun, komputer awal mungkin memiliki hingga tiga chip terpisah yang membentuk Northbridge.</p>
-<h3><span id="Gambar_Northbridge_dan_Bagian-Bagiannya">Gambar Northbridge dan Bagian-Bagiannya</span></h3>
-<p>Di bawah ini adalah ilustrasi grafis dari motherboard ASUS P5AD2-E dan beberapa penjelasan dasar dari masing-masing bagian utama dari motherboard, termasuk Northbridge. Seperti yang ditunjukkan, Northbridge dan Southbridge umumnya memiliki heat sink khusus. Juga, Northbridge biasanya sedikit lebih besar dari Southbridge, dan diposisikan lebih dekat ke CPU dan memori.</p> 
-<figure class="wp-block-image"><img width="500" src="//i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=696%2C465&amp;ssl=1" alt="Ilustrasi Gambar Apa Itu Pengertian Northbridge Dan Cara Kerja Northbridge Pada Motherboard" class="wp-image-6408 lazyloaded" data-recalc-dims="1" sizes="(max-width: 500px) 100vw, 696px" srcset="//i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=1024%2C684&amp;ssl=1 1024w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=300%2C200&amp;ssl=1 300w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=768%2C513&amp;ssl=1 768w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=696%2C465&amp;ssl=1 696w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?w=1068&amp;ssl=1 1068w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=629%2C420&amp;ssl=1 629w" data-ll-status="loaded"><noscript><img width="500" src="//i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=696%2C465&#038;ssl=1" alt="Ilustrasi Gambar Apa Itu Pengertian Northbridge Dan Cara Kerja Northbridge Pada Motherboard" class="wp-image-6408" srcset="//i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=1024%2C684&amp;ssl=1 1024w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=300%2C200&amp;ssl=1 300w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=768%2C513&amp;ssl=1 768w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=696%2C465&amp;ssl=1 696w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?w=1068&amp;ssl=1 1068w, //i0.wp.com/rifqimulyawan.com/wp-content/uploads/Ilustrasi-Gambar-Apa-Itu-Pengertian-Northbridge-Dan-Cara-Kerja-Northbridge-Pada-Motherboard.jpg?resize=629%2C420&amp;ssl=1 629w" sizes="(max-width: 500px) 100vw, 696px" data-recalc-dims="1" /></noscript><figcaption>Ilustrasi Gambar Apa Itu Pengertian Northbridge Dan Cara Kerja Northbridge Pada Motherboard</figcaption></figure>
-<p>Ketika CPU membutuhkan data dari RAM, permintaan dikirim ke pengontrol memori Northbridge. Setelah permintaan diterima, ia merespons dengan berapa lama prosesor harus menunggu untuk membaca memori melalui bus sisi depan. Beberapa motherboard yang lebih baru telah menggantikan Northbridge dan Southbridge dengan IHA.</p>
-<h2><span id="Chipset_IHA_Menggantikan_Chipset_Nothbridge_dan_Southbridge">Chipset IHA Menggantikan Chipset Nothbridge dan Southbridge</span></h2>
-<p>Intel Hub Architecture (IHA) telah menggantikan chipset Northbridge/Southbridge. Chipset IHA juga memiliki dua bagian, yaitu:</p>
-<ol><li>Graphics dan AGP Memory Controller Hub (GMCH)</li><li>I/O Controller Hub (ICH).</li></ol>
-<p>Arsitektur IHA digunakan dalam chipset 800 seri Intel, yang merupakan arsitektur chipset pertama yang menjauh dari desain Northbridge/Southbridge.</p>
-<h2><span id="Bagaimana_Jika_Motherboard_tidak_Memiliki_Northbridge">Bagaimana Jika Motherboard tidak Memiliki Northbridge?</span></h2>
-<p>Sebagai produsen mencari cara baru untuk meningkatkan kinerja dan menurunkan biaya keseluruhan, mereka memindahkan fungsi chip Northbridge ke bagian lain dari CPU dan Southbridge. Dimulai dengan AMD64 AMD dan prosesor Intel Nehalem pengontrol memori dipindahkan dari Northbridge ke prosesor mati. Kemudian, Intel “Sandy Bridge” dan prosesor AMD Accelerated Processing Unit menempatkan semua fungsi Northbridge ke CPU.</p> 
-<h2><span id="Kesimpulan">Kesimpulan</span></h2>
-<p>Northbridge adalah salah satu dari dua chip, atau sirkuit terpadu (IC), dalam chipset pada motherboard. Chip lainnya disebut southbridge. Setiap chip memiliki serangkaian tugas khusus dan berkomunikasi antara CPU dan perangkat eksternal melalui bus.</p>
-<p>Northbridge menghubungkan southbridge ke CPU. Ini sering disebut sebagai hub pengontrol memori. Ini menangani komponen yang lebih cepat pada motherboard, termasuk RAM, ROM, sistem Input/Output dasar (BIOS), port grafis dipercepat (AGP), PCI Express, dan chip southbridge serta CPU. Ini juga mengontrol cache CPU, jika terletak di motherboard.</p>
-<h2><span id="Penutup">Penutup</span></h2>
-<p>Demikianlah ulasan singkat Kami kali ini yang membahas mengenai pengertian Northbridge, Cara Kerja Northbridge beserta pembahasannya secara detail. Semoga tulisan ini dapat bermanfaat dan dapat menambah wawasan Kita semua. Sekian dari <a rel="nofollow" href="https://rifqimulyawan.com/blog/pengertian-northbridge/?link=http%3A%2F%2Frifqimulyawan.com">Saya</a>, Terima Kasih.</p>
- </div>
+    more.innerHTML = `
+    
+    <img width="300" src="https://4.bp.blogspot.com/-wyNuYskmL_s/WJK3P8RCniI/AAAAAAAAACI/U-jjFsrE0PgJiXzUBVZ_LFyk8RRPLhzlQCLcB/s1600/I815EP.png" alt="Northbridge">
+    <p>
+        Suatu northbridge secara umum bisa dikatakan lebih mempengaruhi kinerja mainboard dibandingkan dengan southbridge. Hal ini disebabkan northbridge ini bisa dibilang menanganprosesor, memori utama, kartu grafis, dan bahkan southbridge. Karena fungsinya yang menghubungkan beberapa komponen di atas itulah, northbridge sangat mempengaruhi kinerja darsistem.
+    </p> <br>
+    <p>
+        Northbridge disebut juga dengan nama memory controller hub (MCH). Perusahaan pembuat chipset yang menggunakan nama sebutan MCH ini adalah Intel. Sedangkan AMD, VIA daperusahaan lainnya lebih banyak menggunakan nama sebutan northbridge. Northbridge memiliki peran khusus yang sangat penting dalam suatu sistem motherboard.
+    </p> <br>
+    <p>
+        Northbridge adalah bagian yang menghubungkan prosesor (CPU) ke sistem memori dan graphics controller (AGP dan PCI Express) melalui bus berkecepatan tinggi, dan ke southbridgeDengan demikian, Northbridge bertugas mengendalikan/ menangani komunikasi antara CPU, RAM, AGP atau PCI Express, dan southbridge. Bahkan pada sebagian chipset, di dalanorthbridge juga berisi integrated video controller (pengendali video terintegrasi). Pada sistem Intel istilah integrated video controller ini disebut dengan nama Graphics anMemory Controller Hub (GMCH). Northbridge juga berperan menentukan jumlah, type dan kecepatan CPU yang dapat dipasangkan pada motherboard, termasuk menentukan jumlah, kecepatadan type RAM yang dapat digunakan. Setiap jenis chipset, kebanyakan dirancang hanya untuk mendukung seri prosesor tertentu saja, dengan jumlah RAM yang dapat dipasangkabervariasi bergantung type prosesor dan desain motherboardnya sendiri.
+    </p> <br>
+    <p>
+        Prosesor-prosesor terbaru cukup sering memerlukan northbridge yang baru juga agar dapat bekerja dengan baik. Baru-baru ini dual kanal memori utama menjadi tren. Kemampuan untumendukung dual kanal memori utama ini jelas ditentukan oleh northbridge yang digunakan. Selain masalah dual kanal, masalah mengenai frekuensi kerja dan timing dari memori utamjuga dipengaruhi oleh northbridge ini. Wajar saja karena controller memori tentunya berada pada northbridge tersebut. Untuk prosesor, northbridge ini jelas mempengaruhi FS(Front Side Bus) yang didukung dan fitur yang didukung (misalnya Hyper-Threading), di samping hal-hal lain tentunya. Jenis memori utama dan prosesor yang didukung jugditentukan oleh northbridge ini. Hal yang sama juga berlaku untuk kartu grafis. Kartu grafis masa kini bisa dikatakan hampir semuanya menggunakan interface AGP. Dukungan akaversi AGP yang digunakan jelas diberikan oleh northbridge. Sebelum adanya AGP, kartu grafis menggunakan interface PCI dan tidak dihubungkan secara langsung dengan northbridge.
+    </p> <br>
+    <p>
+        Northbridge berperan penting dalam seberapa jauh komputer dapat overclocked , karena frekuensi biasanya digunakan sebagai dasar untuk CPU untuk mendirikan frekuensi operassendiri . Chip ini biasanya akan lebih panas seperti kecepatan prosesor menjadi lebih cepat , karna itu membutuhkan pendingin yang lebih . Ada batas untuk overclocking CPU seperti sirkuit digital dibatasi oleh faktor fisik seperti delay propagasi yang meningkat dengan (antara faktor-faktor lainnya) suhu operasi , akibatnya aplikasi overclockinyang paling memiliki perangkat lunak yang dikenakan batasan pada multiplier dan pengaturan jam eksternal .
+    </p> <br>
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/bSWM2wSfzgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
     `
 });
 
 document.getElementsByClassName('card')[1].addEventListener('click', function(){
-    document.getElementById('more').innerHTML = `
-    <iframe width="400" height="300" src="https://www.youtube.com/embed/6cNzPvjjsL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    more.innerHTML = `
+    
     <div >Power Supply Komputer merupakan komponen yang sangat penting pada komputer yang berfungsi untuk memberikan daya pada perangkat komputer yang membutuhkan tegangan. Pada kesempatan kali ini saya akan berbagi tentang jenis dan macam-macam konektor pada power supply komputer.<br>
         <br>
         Berikut adalam jenis-jenis konektor pada power supply dan fungsinya:<br>
@@ -218,11 +232,12 @@ document.getElementsByClassName('card')[1].addEventListener('click', function(){
             <a href="//4.bp.blogspot.com/-RHW2zBKLKow/UuR7HTI1ORI/AAAAAAAAArw/cjT2HdYm_GA/s1600/konektor+SATA.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//4.bp.blogspot.com/-RHW2zBKLKow/UuR7HTI1ORI/AAAAAAAAArw/cjT2HdYm_GA/s1600/konektor+SATA.jpg"></a></div>
             <br>
             Itulah macam-macam dan jenis konektor pada power supply dan fungsinya semoga bisa membantu ....</div>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/6cNzPvjjsL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     `
 })
 
 document.getElementsByClassName('card')[0].addEventListener('click', function(){
-    document.getElementById('more').innerHTML = `
+    more.innerHTML = `
     
     <style>
         table {
@@ -238,7 +253,7 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         background-color: #f2f2f2;
         }
 </style>
-<iframe width="400" height="300" src="https://www.youtube.com/embed/eJn-qPHtfzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     <p>Tabel berikut berisi beberapa nama kode prosesor yang beredar.
 </p>
     <table class="wikitable">
@@ -803,6 +818,7 @@ document.getElementsByClassName('card')[0].addEventListener('click', function(){
         <td><a href="https://id.wikipedia.org/wiki/Intel_Itanium" title="Intel Itanium">Intel Itanium</a> dengan proses manufaktur 65 nanometer
         </td></tr>
         </tbody></table>
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/eJn-qPHtfzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     `
 })
