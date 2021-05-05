@@ -717,20 +717,65 @@ const komponens = [
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Slot-PCIE-300x163.jpg",
         artikel : "PCI Express (PCI–E/PCIex) adalah slot ekspansi yang didesain untuk menggantikan PCI bus yang lama. Banyak Motherboard mengadopsi PCI express karena PCI Express memiliki transfer data yang lebih cepat, terutama untuk keperluan grafis 3D.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `
+            <img width="400" height="300" src="https://computory.com/wp-content/uploads/2019/02/fungsi-slot-pci-express-pada-motherboard.jpg" alt="">
+            <p>Peripheral Component Interconnect Express, lebih dikenal dengan PCI Express (dan disingkat PCIe atau PCI-E) dan telah menjadi standar pada Motherboard modern sebagai penghubung dengan kartu ekspansi komputer.</p>
+            <p>PCI-E digunakan sebagai perangkat koneksi dengan motherboard dan juga sebagai antarmuka kartu ekspansi.</p>
+            <p>Standar baru untuk komputer pribadi disebut PCIe 3.0 yang merupakan salah satu peningkatan dibandingkan pendahulunya dengan menggunakan topologi baru yang memungkinkan transfer data lebih cepat.</p>
+            <p>Teknologi PCI-E 3.0 baru berbeda dari papan PCI, PCI-X dan AGP sebelumnya dalam banyak hal, antara lain:</p>
+            <ul>
+            <li>Komunikasi terdiri dari lalu lintas data dan pesan status yang dipaketkan dan di-<em>depacket</em>.</li>
+            <li>Data dikirim melalui tautan serial point-to-point berpasangan, yang disebut jalur, memungkinkan perpindahan data di kedua arah secara bersamaan dan memungkinkan lebih dari satu pasangan perangkat untuk berkomunikasi secara bersamaan.</li>
+            <li>Slot PCI-E tersedia dari satu hingga 32 jalur dengan kekuatan 2 (1, 2,4, 8 dll). Setiap “jalur” adalah sepasang jalur transfer data, satu untuk transmisi dan satu untuk menerima, dan terdiri dari 4 kabel. Jumlah lajur dalam slot dilambangkan dengan x sebelumnya, mis. x16 menunjuk kartu PCI-E 16 jalur.</li>
+            <li>Bandwidth yang lebih tinggi disediakan oleh pengelompokan saluran – menggunakan beberapa jalur untuk satu perangkat.</li>
+            <li>Serial bus mentransmisikan data lebih cepat daripada bus paralel karena keterbatasan yang terakhir membutuhkan data untuk tiba secara bersamaan di tempat tujuan (Ini berkaitan dengan frekuensi dan panjang gelombang bit tunggal). Dengan bus serial tidak ada persyaratan untuk sinyal datang secara bersamaan.</li>
+            <li>PCI-E mengikuti protokol berlapis yang terdiri dari 3 lapisan: lapisan transaksi, lapisan tautan data, dan lapisan fisik.</li>
+            </ul>
+            <p>Berikut ini adalah laju transmisi dan bandwidth untuk berbagai bus PCI-E. Tarif ini untuk transmisi total di kedua arah, 50% berada di kedua arah:</p>
+            <ul>
+            <li>PCI Express 1x 500 MB / s</li>
+            <li>PCI Express 2×1000 MB / s</li>
+            <li>PCI Express 4x 2000 MB / s</li>
+            <li>PCI Express 8x 4000 MB / s</li>
+            <li>PCI Express 16x 8000 MB / s (kartu x16 adalah ukuran terbesar yang umum digunakan.)</li>
+            <li>PCI Express 32×16000 MB / s</li>
+            </ul>
+            <p>Sebagai perbandingan, kartu PCI memiliki bandwidth 132 MB / s; AGP 8x: 2.100 MB / s; USB 2.0: 60 MB / s; IDE: 100 hingga 133 MB / s; SATA: 150 MB / s; SATA II: 300 MB / s; Gigabit Ethernet: 125 MB / s; dan Firewire 800: sekitar. 100 MB / s.</p>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/sRx2YLzBIqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        `
     },
     {
         name    : "Southbridge",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/southbridge.jpg",
         artikel : "adalah chip dalam arsitektur chipset logika inti pada bagian utara motherboard PC. Fungsi dari Southbridge adalah mengatur kerja perangkat semacam IDE Controller, PCI Bus, ROM Bios, Keyboard & Mouse, USB, Eth. LAN, Modem dan fungsi I/O lainnya.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `
+            <img src="https://4.bp.blogspot.com/-N67kvAcyqWw/WJK2fdJrusI/AAAAAAAAAB8/YPO3mIvRMaYQyKVB4NQrBeEl2FmmXDIXQCLcB/s320/800px-IBM_T42_Motherboard_IMG_2591a.jpg" alt="">
+            <div>
+            <h2><span id="Pengertian_Southbridge">Pengertian Southbridge</span></h2>
+            <p>Jadi Apa itu Pengertian Southbridge? <strong>Southbridge </strong>adalah IC pada motherboard yang bertanggung jawab untuk pengontrol hard drive, I/O controller, dan perangkat keras terintegrasi. Perangkat keras terintegrasi dapat menyertakan kartu suara dan kartu video jika pada motherboard, USB, PCI, ISA, IDE, BIOS, dan Ethernet.</p>
+            <p>Berdasarkan situs Technopedia, Southbridge mendapatkan namanya karena umumnya Selatan dari bus PCI. Di bawah ini adalah ilustrasi grafis dari motherboard ASUS P5AD2-E dan beberapa penjelasan dasar dari masing-masing bagian utama motherboard termasuk southbridge. Seperti yang ditunjukkan pada gambar di bawah ini, biasanya jembatan utara dan selatan memiliki <strong>heat sink</strong>, selain itu, Northbridge biasanya sedikit lebih besar dari <strong>Southbridge</strong>.</p>
+            <p>Meskipun southbridge menangani sebagian besar perangkat I / O, perangkat input / output yang kurang menonjol, seperti port serial, keyboard, dan mouse non-USB ditangani oleh SIO (super input / output).</p>
+            <h3><span id="Chipset_dan_Motherboard_Baru">Chipset dan Motherboard Baru</span></h3>
+            <p>Beberapa chipset yang lebih baru menggabungkan chip Southbridge dan Super I / O ke dalam satu chip dan mengacu pada chip ini sebagai chip Super Southbridge. Beberapa produsen seperti NVIDIA dan SiS bahkan telah menggabungkan Northbridge, Southbridge, dan Super I / O menjadi satu chip. Motherboard baru menggantikan northbridge dan southbridge dengan IHA.</p> 
+            <h2><span id="Fungsi_Southbridge">Fungsi Southbridge</span></h2>
+
+            <p>Mengacu pada Pengertian Southbridge di atas, <strong>Southbridge </strong>berfungsi untuk mengelola bentuk dasar input / output (I / O) seperti Universal Serial Bus (USB), serial, audio, Integrated Drive Electronics (IDE), dan I / O Arsitektur Standar Industri di komputer. Southbridge adalah salah satu dari dua chipset yang secara kolektif disebut Northbridge / Southbridge. Northbridge mengontrol prosesor, memori, bus Peripheral Component Interconnect (PCI), cache Level 2, dan semua aktivitas Accelerated Graphics Port (AGP). Tidak seperti Northbridge, Southbridge terdiri dari satu chip, yang duduk di bus PCI Northbridge.</p>
+            <h2><span id="Sejarah_Southbridge">Sejarah Southbridge</span></h2>
+            <p>Dalam membahas Pengertian Southbridge ini, adapun sedikit sejarah Southbridge yang mana Nama ini berasal dari desain motherboard Intel 1991 asli. Desain ini memiliki bus lokal PCI (tulang punggung) di tengah dan CPU, memori/cache dan komponen penting kinerja tinggi lainnya yang terletak di atas atau di utara. Komponen yang kurang penting-kinerja terletak di bawah, atau di sebelah selatan, bus lokal PCI.</p>
+            <p>Jembatan ke dua rangkaian komponen dari tulang punggung ini sering disebut Southbridge dan Northbridge, meskipun arsitektur saat ini telah menggantikan tulang punggung bus PCI dengan bus I/O yang lebih cepat.</p> 
+            <h2><span id="Kesimpulan">Kesimpulan</span></h2>
+            <p>Berdasarkan pembahasan Pengertian Southbridge di atas, dapat kita simpulkan bahwa, <strong>Southbridge </strong>adalah chipset Intel yang mengelola bentuk dasar input/output (I/O) seperti Universal Serial Bus (USB), serial, audio, Integrated Drive Electronics (IDE), dan Industry Standard Architecture (ISA) I/O in komputer. Southbridge adalah salah satu dari dua chipset yang secara kolektif disebut Northbridge dan Southbridge.</p>
+            <p>Northbridge mengontrol prosesor, memori, bus Peripheral Component Interconnect (PCI), cache Level 2, dan semua aktivitas Accelerated Graphics Port (AGP). Tidak seperti Northbridge, Southbridge terdiri dari satu chip, yang duduk di bus PCI Northbridge.</p>
+            </div>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/XUVMf5XpbdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        `
     },
     {
         name    : "LED",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Lampu-LED-300x194.jpg",
         artikel : "Power LED adalah lampu menyala jika terdapat standby power di Motherboard. LED ini bertindak sebagai reminder (pengingat) untuk mematikan system power sebelum menghidupkan atau mematikan komputer.",
-        link    : "#more-link",
+        link    : "#",
         moreArtikel : ``
     },
     {
@@ -738,63 +783,63 @@ const komponens = [
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/ps2_ports_atx-174x300.jpg",
         artikel : "Port PS/2 adalah konektor mini-DIN-6pin yang menghubungkan mouse ke komputer.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/7aXbh9VUB3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Port Paralel",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Port-Paralel-300x225.jpg",
         artikel : "Fungsi dari port paralel adalah menyambungkan komputer dengan printer, scanner, sampai dengan menghubungkan komputer dengan perangkat tambahan tertentu yang dirancang menggunakan koneksi port paralel.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/myU2x27FIIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Port Serial",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/serial-300x154.jpg",
         artikel : "Port Serial adalah Port asinkron yang ada pada komputer yang digunakan untuk menghubungkan perangkat serial ke komputer dan mampu mengirimkan sedikit demi sedikit.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/myU2x27FIIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Port VGA",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/vga-300x225.jpg",
         artikel : "Port VGA adalah sebuah antarmuka analog pada kartu grafis yang umumnya digunakan untuk menghubungkan antara komputer dengan monitor.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Port DVI",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/dvi-300x120.jpg",
         artikel : "Port DVI adalah interface video display yang dikembangkan oleh Digital Display Working Group (DDWG). Interface digital ini digunakan untuk menghubungkan sumber video, seperti kartu grafis ke perangkat layar, seperti monitor komputer.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Port HDMI",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/hdmi.jpg",
         artikel : "Port HDMI adalah interface yang berfungsi untuk menghubungkan Display ke komputer, seperti monitor, TV, Proyektor, dll.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Port USB",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/usb.jpg",
         artikel : "Port USB berfungsi untuk menghubungkan perangkat seperti mouse,keyboard, flashdisk, printer, dan perangkat lainnya.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Battery CMOS",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/cmos-300x252.png",
         artikel : "sebuah baterai yang digunakan oleh BIOS untuk tetap aktif meski tanpa aliran listrik.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/oSrUsM0hoPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Port RJ-45",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/rj45-300x203.png",
         artikel : "Port RJ-45 berfungsi untuk menghubungkan atau mengkoneksikan Internet pada komputer.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Port Audio",
@@ -805,21 +850,21 @@ const komponens = [
         -   Port Mikrofon (pink): untuk menghubungkan mikrofon pada komputer.
         `,
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Pin CPU Fan",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/cpu-fan-300x168.jpg",
         artikel : "Pin CPU Fan berfungsi untuk  memberikan daya ke kipas processor agar dia dapat menyala sehingga bisa mendinginkan processor.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/ieMvtUpFENM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
         name    : "Pin Front Panel",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/f_panel.jpg",
         artikel : "Pin Front Panel ini berfungsi sebagai konektor dari casing ke motherboard sehingga kita bisa menyalakan komputer melalui casing.",
         link    : "#more-link",
-        moreArtikel : ``
+        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/gHKoh8as2po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     }
 ];
 
@@ -845,6 +890,7 @@ let i = 0;
 komponens.forEach(komponen => {
     document.getElementsByClassName('card')[i].addEventListener('click', function(){
         more.innerHTML = komponen.moreArtikel;
+        more.style.width = "400vh";
     });
     i++;
 });

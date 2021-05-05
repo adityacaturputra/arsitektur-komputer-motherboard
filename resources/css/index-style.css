@@ -7,7 +7,7 @@
         flex-direction: column;
         justify-content: center;
     }
-
+    
     .flex {
         display: flex;
     }
@@ -23,6 +23,7 @@
         font-family: 'RocknRoll One', sans-serif;
     }
 }
+
 
 .flex-wrap {
     flex-wrap: wrap;
@@ -71,7 +72,9 @@
 .black{
     background-color: rgba(0, 0, 0, 0.671);
     min-height: 100vh;
-    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 .wrapper {
     color: aliceblue;
@@ -88,12 +91,8 @@
 
 h1 {
     margin-left: 25px;
-    color: #004450;
     font-size: 35px;
     transition-duration: 1s;
-}
-.mb-15 {
-    margin-bottom: 15vh;
 }
 
 h1:hover {
@@ -154,9 +153,6 @@ a {
     display: inline-block;
 }
 
-p {
-    color: #004450;
-}
 
 .warna-putih {
     color: whitesmoke;
