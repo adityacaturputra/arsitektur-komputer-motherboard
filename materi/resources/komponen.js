@@ -775,8 +775,8 @@ const komponens = [
         name    : "LED",
         img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Lampu-LED-300x194.jpg",
         artikel : "Power LED adalah lampu menyala jika terdapat standby power di Motherboard. LED ini bertindak sebagai reminder (pengingat) untuk mematikan system power sebelum menghidupkan atau mematikan komputer.",
-        link    : "",
-        moreArtikel : ``
+        link    : "#more-link",
+        moreArtikel : `Power LED adalah lampu menyala jika terdapat standby power di Motherboard. LED ini bertindak sebagai reminder (pengingat) untuk mematikan system power sebelum menghidupkan atau mematikan komputer.`
     },
     {
         name    : "Port PS/2",
