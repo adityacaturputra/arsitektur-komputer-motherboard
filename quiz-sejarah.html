@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Sejarah Motherboard</title>
+    <link rel="stylesheet" href="assets/css/primary.css">
+</head>
+
+<body>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Heebo', sans-serif;
+            font-size: 16px;
+        }
+
+        img {
+            width: 100%;
+        }
+
+        main {
+            min-height: 100vh;
+            background-image: url('assets/img/index/index-wallpaper.jpg');
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: aliceblue;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+        main h1 {
+            margin: 32px 0;
+            flex-basis: 20%;
+            margin: 12px;
+        }
+
+        main span {
+            color: #3498db;
+            font-size: 1.3em;
+        }
+
+        .question {
+            font-weight: 600;
+        }
+
+        .answers {
+            margin-bottom: 20px;
+        }
+
+        .answers label {
+            display: block;
+        }
+
+        #each-quiz {
+            background-color: aliceblue;
+            color: #003558;
+            margin: 16px;
+            padding: 16px;
+            max-width: 1200px;
+            border-radius: 16px;
+        }
+
+        .results-button {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+    </style>
+
+
+
+    <main>
+        <h1>Quiz materi Sejarah <span class="text-animation">Motherboard</span></h1>
+        <section class="flex" id="content">
+            <div id="quiz-sejarah">
+                <div id="quiz"></div>
+                <div class="results-button">
+                    <button id="submit" class="btn third">Quiz Selesai</button>
+                    <div id="results" class="text-animation"></div>
+                    <a href="index.html"><button>Home</button></a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="assets/js/quiz-sejarah.js"></script>
+</body>
+
+</html>
