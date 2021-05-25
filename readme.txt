@@ -5,4 +5,4 @@ https://adityacaturputra.github.io/arsitektur-komputer-motherboard/index.html
 
 Selain dengan cara di atas,
 opsi lainnya bisa juga dengan membuka file index.html
-melalui browser seperti google chrome, mozilla firefox, atau browser lainnya.
+melalui browser seperti google chrome, mozilla firefox, atau browser desktop lainnya.
