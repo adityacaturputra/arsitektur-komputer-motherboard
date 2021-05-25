@@ -25,7 +25,7 @@
 
   /* Add some shadows to create a card effect */
   .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 hsla(204, 100%, 17%, 0.4);
   }
   
   /* Some left and right padding inside the container */
@@ -44,8 +44,8 @@
     color: grey;
   }
 
-  .card .container h2, p {
-      color: black;
+  .card .container h2, footer h1, p {
+      color: #003558;
       padding-bottom: 6px;
   }
   .card .container h2 {
