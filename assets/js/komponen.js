@@ -1,10 +1,10 @@
 const komponens = [
     {
-        name    : "Slot Processor",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Socket-Processor-300x229.jpg",
-        artikel : "Slot Processor adalah tempat peletakan prosesor pada motherboard. Dudukan ini berbentuk segi empat dengan lubang-lubang kecil tempat tertancapnya kaki-kaki (pin-pin) prosesor yang tersusun membentuk matriks 2 dimensi. Yang berfungsi untuk meletakan processor ke motherboard.",
-        link    : "#more-link",
-        moreArtikel : `           
+        name: "Slot Processor",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Socket-Processor-300x229.jpg",
+        artikel: "Slot Processor adalah tempat peletakan prosesor pada motherboard. Dudukan ini berbentuk segi empat dengan lubang-lubang kecil tempat tertancapnya kaki-kaki (pin-pin) prosesor yang tersusun membentuk matriks 2 dimensi. Yang berfungsi untuk meletakan processor ke motherboard.",
+        link: "#more-link",
+        moreArtikel: `           
                     <style>
                     table {
                     border-collapse: collapse;
@@ -588,11 +588,11 @@ const komponens = [
         `
     },
     {
-        name    : "Konektor power",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/ATX-Power-300x270.jpg",
-        artikel : "konektor power pada motherboard adalah Pin yang menyambungkan motherboard dengan power supply di casing sebuah komputer. Agar si motherboard menerima daya dari power supply.",
-        link    : "#more-link",
-        moreArtikel : `
+        name: "Konektor power",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/ATX-Power-300x270.jpg",
+        artikel: "konektor power pada motherboard adalah Pin yang menyambungkan motherboard dengan power supply di casing sebuah komputer. Agar si motherboard menerima daya dari power supply.",
+        link: "#more-link",
+        moreArtikel: `
         <div >Power Supply Komputer merupakan komponen yang sangat penting pada komputer yang berfungsi untuk memberikan daya pada perangkat komputer yang membutuhkan tegangan. Pada kesempatan kali ini saya akan berbagi tentang jenis dan macam-macam konektor pada power supply komputer.<br>
         <br>
         Berikut adalam jenis-jenis konektor pada power supply dan fungsinya:<br>
@@ -600,12 +600,12 @@ const komponens = [
         <b>1. Konektor 20/24 Pin ATX motherboard</b><br>
         Konektor 20/24 Pin ATX berfungsi untuk memberikan daya pada motherboard. Konektor ini biasanya terdiri dari 2 buah konektor yaitu 20 pin dan 4 pin yang kemudian dijadikan 1 membentuk konektor 24 pin. konektor 20 pin digunakan untuk motherboard jenis lama sedangkan untuk konektor 24 pin biasanya digunakan untuk jenis motherboard model baru.<br>
         <div>
-        <a href="//3.bp.blogspot.com/-PXWClE0rO04/UuRy7uvF4OI/AAAAAAAAArA/6wdAzjjS8GE/s1600/konektor+20+dan+24+pin+motherboard.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="//3.bp.blogspot.com/-PXWClE0rO04/UuRy7uvF4OI/AAAAAAAAArA/6wdAzjjS8GE/s1600/konektor+20+dan+24+pin+motherboard.jpg" width="320"></a></div>
+        <a href="https://3.bp.blogspot.com/-PXWClE0rO04/UuRy7uvF4OI/AAAAAAAAArA/6wdAzjjS8GE/s1600/konektor+20+dan+24+pin+motherboard.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://3.bp.blogspot.com/-PXWClE0rO04/UuRy7uvF4OI/AAAAAAAAArA/6wdAzjjS8GE/s1600/konektor+20+dan+24+pin+motherboard.jpg" width="320"></a></div>
         <br>
         <b>2. Konektor 4 pin 12V</b><br>
         Konektor 4/8 pin 12V berfungsi untuk memberikan tegangan untuk prosessor. Konektor ini digunakan mulai jenis komputer pentium IV keatas sampai sekarang.<br>
         <div>
-        <a href="//4.bp.blogspot.com/-DnPs63HYLWc/UuR5eofwPYI/AAAAAAAAArQ/CLOZKSr9fWs/s1600/konektor+4+pin+12+V.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//4.bp.blogspot.com/-DnPs63HYLWc/UuR5eofwPYI/AAAAAAAAArQ/CLOZKSr9fWs/s1600/konektor+4+pin+12+V.jpg"></a></div>
+        <a href="https://4.bp.blogspot.com/-DnPs63HYLWc/UuR5eofwPYI/AAAAAAAAArQ/CLOZKSr9fWs/s1600/konektor+4+pin+12+V.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-DnPs63HYLWc/UuR5eofwPYI/AAAAAAAAArQ/CLOZKSr9fWs/s1600/konektor+4+pin+12+V.jpg"></a></div>
         <br>
         <b>3. Konektor 6 pin PCIe</b><br>
         Konektor jenis ini digunakan untuk memberikan daya tambahan pada perangkat VGA card atau kartu grafis yang berjenis PCIe karena VGA Card jenis PCIe membutuhkan daya yang lebih dibandingkan dengan VGA jenis lainnya.</div>
@@ -615,23 +615,23 @@ const komponens = [
     
         <div >
             <div >
-            <a href="//3.bp.blogspot.com/-E5YKGOEVayM/UuR5_aeEV2I/AAAAAAAAArY/j2KCwwrOTF4/s1600/Konektor+6+pin+PCIe.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="214" src="//3.bp.blogspot.com/-E5YKGOEVayM/UuR5_aeEV2I/AAAAAAAAArY/j2KCwwrOTF4/s1600/Konektor+6+pin+PCIe.jpg" width="320"></a></div>
+            <a href="https://3.bp.blogspot.com/-E5YKGOEVayM/UuR5_aeEV2I/AAAAAAAAArY/j2KCwwrOTF4/s1600/Konektor+6+pin+PCIe.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="214" src="https://3.bp.blogspot.com/-E5YKGOEVayM/UuR5_aeEV2I/AAAAAAAAArY/j2KCwwrOTF4/s1600/Konektor+6+pin+PCIe.jpg" width="320"></a></div>
             <br>
             <br>
             <b>4. Konektor 4 pin peripheral</b><br>
             konektor 4 pin peripheral berfungsi untuk memberikan daya pada peralatan atau komponen komputer seperti harddis, CR Room, kipas pendingin dan lain-lain.<br>
             <div >
-            <a href="//3.bp.blogspot.com/-W-a_OplROI4/UuR6grH5FCI/AAAAAAAAArg/hzHR31dhT8g/s1600/Konektor+4+pin+peripheral.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//3.bp.blogspot.com/-W-a_OplROI4/UuR6grH5FCI/AAAAAAAAArg/hzHR31dhT8g/s1600/Konektor+4+pin+peripheral.jpg"></a></div>
+            <a href="https://3.bp.blogspot.com/-W-a_OplROI4/UuR6grH5FCI/AAAAAAAAArg/hzHR31dhT8g/s1600/Konektor+4+pin+peripheral.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-W-a_OplROI4/UuR6grH5FCI/AAAAAAAAArg/hzHR31dhT8g/s1600/Konektor+4+pin+peripheral.jpg"></a></div>
             <br>
             <b>5. Konektor Floppy</b><br>
             Konektor jenis ini berfungsi untuk memberikan daya dan tegangan pada komponen floppy disk.<br>
             <div >
-            <a href="//2.bp.blogspot.com/-TUEh0Wbw-50/UuR6yxcv5rI/AAAAAAAAAro/paKUw3dSwcc/s1600/Konektor+Floppy.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//2.bp.blogspot.com/-TUEh0Wbw-50/UuR6yxcv5rI/AAAAAAAAAro/paKUw3dSwcc/s1600/Konektor+Floppy.jpg"></a></div>
+            <a href="https://2.bp.blogspot.com/-TUEh0Wbw-50/UuR6yxcv5rI/AAAAAAAAAro/paKUw3dSwcc/s1600/Konektor+Floppy.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-TUEh0Wbw-50/UuR6yxcv5rI/AAAAAAAAAro/paKUw3dSwcc/s1600/Konektor+Floppy.jpg"></a></div>
             <br>
             <b>6. Konektor SATA</b><br>
             Konektor jenis ini berfunsgi untuk memberikan daya kepada komponen komputer yang memiliki port SATA seperti CD Room, Harddisk dan komponen lainnya.<br>
             <div >
-            <a href="//4.bp.blogspot.com/-RHW2zBKLKow/UuR7HTI1ORI/AAAAAAAAArw/cjT2HdYm_GA/s1600/konektor+SATA.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//4.bp.blogspot.com/-RHW2zBKLKow/UuR7HTI1ORI/AAAAAAAAArw/cjT2HdYm_GA/s1600/konektor+SATA.jpg"></a></div>
+            <a href="https://4.bp.blogspot.com/-RHW2zBKLKow/UuR7HTI1ORI/AAAAAAAAArw/cjT2HdYm_GA/s1600/konektor+SATA.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-RHW2zBKLKow/UuR7HTI1ORI/AAAAAAAAArw/cjT2HdYm_GA/s1600/konektor+SATA.jpg"></a></div>
             <br>
             Itulah macam-macam dan jenis konektor pada power supply dan fungsinya semoga bisa membantu ....</div>
             <iframe width="400" height="300" src="https://www.youtube.com/embed/6cNzPvjjsL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -639,11 +639,11 @@ const komponens = [
         `
     },
     {
-        name    : "Northbridge",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Northbridge.jpg",
-        artikel : "Northbridge adalah komponen yang menghubungkan procossor (CPU) ke sistem memori dan graphics controller (AGP dan PCI Express) melalui bus berkecepatan tinggi, dan ke southbridge. Fungsi dari Northbridge sendiri yaitu menjembatani arus data di sekitar main Memory, Prosesor, Front Side Bus dan AGP Bus juga mengatur kerja power management.",
-        link    : "#more-link",
-        moreArtikel : `
+        name: "Northbridge",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Northbridge.jpg",
+        artikel: "Northbridge adalah komponen yang menghubungkan procossor (CPU) ke sistem memori dan graphics controller (AGP dan PCI Express) melalui bus berkecepatan tinggi, dan ke southbridge. Fungsi dari Northbridge sendiri yaitu menjembatani arus data di sekitar main Memory, Prosesor, Front Side Bus dan AGP Bus juga mengatur kerja power management.",
+        link: "#more-link",
+        moreArtikel: `
     
         <img width="300" src="https://4.bp.blogspot.com/-wyNuYskmL_s/WJK3P8RCniI/AAAAAAAAACI/U-jjFsrE0PgJiXzUBVZ_LFyk8RRPLhzlQCLcB/s1600/I815EP.png" alt="Northbridge">
         <p>
@@ -666,11 +666,11 @@ const komponens = [
         `
     },
     {
-        name    : "Slot Memory RAM",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Slot-memory-300x200.jpg",
-        artikel : "Slot Memory RAM berfungsi untuk memasang memory card (RAM), Memory atau RAM ada beberapa Jenis seperti SDRAM,DDR1,DDR2,DDR3 dan DDR4.",
-        link    : "#more-link",
-        moreArtikel : `
+        name: "Slot Memory RAM",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Slot-memory-300x200.jpg",
+        artikel: "Slot Memory RAM berfungsi untuk memasang memory card (RAM), Memory atau RAM ada beberapa Jenis seperti SDRAM,DDR1,DDR2,DDR3 dan DDR4.",
+        link: "#more-link",
+        moreArtikel: `
     
         <div>
                     <img src="https://www.astronkomputer.com/wp-content/uploads/2017/11/slot-memori.jpg" alt="">
@@ -690,11 +690,11 @@ const komponens = [
         `
     },
     {
-        name    : "Port SATA",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Port-Sata-300x212.jpg",
-        artikel : "SATA singkatan dari Serial ATA yang berfungsi untuk menghubungkan Media penyimpanan seperti hardisk atau SSD ke Motherboard.",
-        link    : "#more-link",
-        moreArtikel : `
+        name: "Port SATA",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Port-Sata-300x212.jpg",
+        artikel: "SATA singkatan dari Serial ATA yang berfungsi untuk menghubungkan Media penyimpanan seperti hardisk atau SSD ke Motherboard.",
+        link: "#more-link",
+        moreArtikel: `
         <div>
                 <img src="https://computory.com/wp-content/uploads/2019/02/fungsi-sata-pada-motherboard.jpg" width="400" height="300" alt="">
                     <p><strong>Serial Advanced Technology Attachment</strong> (serial ATA, SATA atau S-ATA) adalah antarmuka komputer pada Motherboard yang digunakan untuk menghubungkan adaptor bus host dengan perangkat penyimpanan massal seperti drive optik dan hard disk serta SSD.</p>
@@ -713,11 +713,11 @@ const komponens = [
         `
     },
     {
-        name    : "Slot PCI-E",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Slot-PCIE-300x163.jpg",
-        artikel : "PCI Express (PCI–E/PCIex) adalah slot ekspansi yang didesain untuk menggantikan PCI bus yang lama. Banyak Motherboard mengadopsi PCI express karena PCI Express memiliki transfer data yang lebih cepat, terutama untuk keperluan grafis 3D.",
-        link    : "#more-link",
-        moreArtikel : `
+        name: "Slot PCI-E",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Slot-PCIE-300x163.jpg",
+        artikel: "PCI Express (PCI–E/PCIex) adalah slot ekspansi yang didesain untuk menggantikan PCI bus yang lama. Banyak Motherboard mengadopsi PCI express karena PCI Express memiliki transfer data yang lebih cepat, terutama untuk keperluan grafis 3D.",
+        link: "#more-link",
+        moreArtikel: `
             <img width="400" height="300" src="https://computory.com/wp-content/uploads/2019/02/fungsi-slot-pci-express-pada-motherboard.jpg" alt="">
             <p>Peripheral Component Interconnect Express, lebih dikenal dengan PCI Express (dan disingkat PCIe atau PCI-E) dan telah menjadi standar pada Motherboard modern sebagai penghubung dengan kartu ekspansi komputer.</p>
             <p>PCI-E digunakan sebagai perangkat koneksi dengan motherboard dan juga sebagai antarmuka kartu ekspansi.</p>
@@ -745,11 +745,11 @@ const komponens = [
         `
     },
     {
-        name    : "Southbridge",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/southbridge.jpg",
-        artikel : "adalah chip dalam arsitektur chipset logika inti pada bagian utara motherboard PC. Fungsi dari Southbridge adalah mengatur kerja perangkat semacam IDE Controller, PCI Bus, ROM Bios, Keyboard & Mouse, USB, Eth. LAN, Modem dan fungsi I/O lainnya.",
-        link    : "#more-link",
-        moreArtikel : `
+        name: "Southbridge",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/southbridge.jpg",
+        artikel: "adalah chip dalam arsitektur chipset logika inti pada bagian utara motherboard PC. Fungsi dari Southbridge adalah mengatur kerja perangkat semacam IDE Controller, PCI Bus, ROM Bios, Keyboard & Mouse, USB, Eth. LAN, Modem dan fungsi I/O lainnya.",
+        link: "#more-link",
+        moreArtikel: `
             <img src="https://4.bp.blogspot.com/-N67kvAcyqWw/WJK2fdJrusI/AAAAAAAAAB8/YPO3mIvRMaYQyKVB4NQrBeEl2FmmXDIXQCLcB/s320/800px-IBM_T42_Motherboard_IMG_2591a.jpg" alt="">
             <div>
             <h2><span id="Pengertian_Southbridge">Pengertian Southbridge</span></h2>
@@ -772,99 +772,99 @@ const komponens = [
         `
     },
     {
-        name    : "LED",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Lampu-LED-300x194.jpg",
-        artikel : "Power LED adalah lampu menyala jika terdapat standby power di Motherboard. LED ini bertindak sebagai reminder (pengingat) untuk mematikan system power sebelum menghidupkan atau mematikan komputer.",
-        link    : "#more-link",
-        moreArtikel : `Power LED adalah lampu menyala jika terdapat standby power di Motherboard. LED ini bertindak sebagai reminder (pengingat) untuk mematikan system power sebelum menghidupkan atau mematikan komputer.`
+        name: "LED",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Lampu-LED-300x194.jpg",
+        artikel: "Power LED adalah lampu menyala jika terdapat standby power di Motherboard. LED ini bertindak sebagai reminder (pengingat) untuk mematikan system power sebelum menghidupkan atau mematikan komputer.",
+        link: "#more-link",
+        moreArtikel: `Power LED adalah lampu menyala jika terdapat standby power di Motherboard. LED ini bertindak sebagai reminder (pengingat) untuk mematikan system power sebelum menghidupkan atau mematikan komputer.`
     },
     {
-        name    : "Port PS/2",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/ps2_ports_atx-174x300.jpg",
-        artikel : "Port PS/2 adalah konektor mini-DIN-6pin yang menghubungkan mouse ke komputer.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/7aXbh9VUB3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Port PS/2",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/ps2_ports_atx-174x300.jpg",
+        artikel: "Port PS/2 adalah konektor mini-DIN-6pin yang menghubungkan mouse ke komputer.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/7aXbh9VUB3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Port Paralel",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Port-Paralel-300x225.jpg",
-        artikel : "Fungsi dari port paralel adalah menyambungkan komputer dengan printer, scanner, sampai dengan menghubungkan komputer dengan perangkat tambahan tertentu yang dirancang menggunakan koneksi port paralel.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/myU2x27FIIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Port Paralel",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/Port-Paralel-300x225.jpg",
+        artikel: "Fungsi dari port paralel adalah menyambungkan komputer dengan printer, scanner, sampai dengan menghubungkan komputer dengan perangkat tambahan tertentu yang dirancang menggunakan koneksi port paralel.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/myU2x27FIIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Port Serial",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/serial-300x154.jpg",
-        artikel : "Port Serial adalah Port asinkron yang ada pada komputer yang digunakan untuk menghubungkan perangkat serial ke komputer dan mampu mengirimkan sedikit demi sedikit.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/myU2x27FIIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Port Serial",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/serial-300x154.jpg",
+        artikel: "Port Serial adalah Port asinkron yang ada pada komputer yang digunakan untuk menghubungkan perangkat serial ke komputer dan mampu mengirimkan sedikit demi sedikit.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/myU2x27FIIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Port VGA",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/vga-300x225.jpg",
-        artikel : "Port VGA adalah sebuah antarmuka analog pada kartu grafis yang umumnya digunakan untuk menghubungkan antara komputer dengan monitor.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Port VGA",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/vga-300x225.jpg",
+        artikel: "Port VGA adalah sebuah antarmuka analog pada kartu grafis yang umumnya digunakan untuk menghubungkan antara komputer dengan monitor.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Port DVI",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/dvi-300x120.jpg",
-        artikel : "Port DVI adalah interface video display yang dikembangkan oleh Digital Display Working Group (DDWG). Interface digital ini digunakan untuk menghubungkan sumber video, seperti kartu grafis ke perangkat layar, seperti monitor komputer.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Port DVI",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/dvi-300x120.jpg",
+        artikel: "Port DVI adalah interface video display yang dikembangkan oleh Digital Display Working Group (DDWG). Interface digital ini digunakan untuk menghubungkan sumber video, seperti kartu grafis ke perangkat layar, seperti monitor komputer.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Port HDMI",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/hdmi.jpg",
-        artikel : "Port HDMI adalah interface yang berfungsi untuk menghubungkan Display ke komputer, seperti monitor, TV, Proyektor, dll.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Port HDMI",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/hdmi.jpg",
+        artikel: "Port HDMI adalah interface yang berfungsi untuk menghubungkan Display ke komputer, seperti monitor, TV, Proyektor, dll.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Port USB",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/usb.jpg",
-        artikel : "Port USB berfungsi untuk menghubungkan perangkat seperti mouse,keyboard, flashdisk, printer, dan perangkat lainnya.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Port USB",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/usb.jpg",
+        artikel: "Port USB berfungsi untuk menghubungkan perangkat seperti mouse,keyboard, flashdisk, printer, dan perangkat lainnya.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Battery CMOS",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/cmos-300x252.png",
-        artikel : "sebuah baterai yang digunakan oleh BIOS untuk tetap aktif meski tanpa aliran listrik.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/oSrUsM0hoPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Battery CMOS",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/cmos-300x252.png",
+        artikel: "sebuah baterai yang digunakan oleh BIOS untuk tetap aktif meski tanpa aliran listrik.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/oSrUsM0hoPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Port RJ-45",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/rj45-300x203.png",
-        artikel : "Port RJ-45 berfungsi untuk menghubungkan atau mengkoneksikan Internet pada komputer.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Port RJ-45",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/rj45-300x203.png",
+        artikel: "Port RJ-45 berfungsi untuk menghubungkan atau mengkoneksikan Internet pada komputer.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Port Audio",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/audio.jpg",
-        artikel : `Pada Port Audio: <br>
+        name: "Port Audio",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/audio.jpg",
+        artikel: `Pada Port Audio: <br>
         -	Port Line in jack(biru): untuk menghubungkan sumber dari audio. <br>
         -	Port Line out jack(hijau): untuk menghubungkan ke headphone atau headset. <br>
         -   Port Mikrofon (pink): untuk menghubungkan mikrofon pada komputer.
         `,
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/iPyNNX_bowg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Pin CPU Fan",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/cpu-fan-300x168.jpg",
-        artikel : "Pin CPU Fan berfungsi untuk  memberikan daya ke kipas processor agar dia dapat menyala sehingga bisa mendinginkan processor.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/ieMvtUpFENM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Pin CPU Fan",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/cpu-fan-300x168.jpg",
+        artikel: "Pin CPU Fan berfungsi untuk  memberikan daya ke kipas processor agar dia dapat menyala sehingga bisa mendinginkan processor.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/ieMvtUpFENM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     },
     {
-        name    : "Pin Front Panel",
-        img     : "https://www.kiosbarcode.com/wp-content/uploads/2019/11/f_panel.jpg",
-        artikel : "Pin Front Panel ini berfungsi sebagai konektor dari casing ke motherboard sehingga kita bisa menyalakan komputer melalui casing.",
-        link    : "#more-link",
-        moreArtikel : `<iframe width="400" height="300" src="https://www.youtube.com/embed/gHKoh8as2po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        name: "Pin Front Panel",
+        img: "https://www.kiosbarcode.com/wp-content/uploads/2019/11/f_panel.jpg",
+        artikel: "Pin Front Panel ini berfungsi sebagai konektor dari casing ke motherboard sehingga kita bisa menyalakan komputer melalui casing.",
+        link: "#more-link",
+        moreArtikel: `<iframe width="400" height="300" src="https://www.youtube.com/embed/gHKoh8as2po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
     }
 ];
 
@@ -888,7 +888,7 @@ card.innerHTML = temp;
 let more = document.getElementById('more');
 let i = 0;
 komponens.forEach(komponen => {
-    document.getElementsByClassName('card')[i].addEventListener('click', function(){
+    document.getElementsByClassName('card')[i].addEventListener('click', function () {
         more.innerHTML = komponen.moreArtikel;
         more.style.width = "400vh";
     });
